@@ -1,0 +1,10 @@
+check_or_issue,column,records_affected,action_taken,reason
+Churn date conversion,churn_date,1991,Converted string values to datetime,Required for date-based analysis and validation.
+Expected missing churn dates,churn_date,6009,Retained missing values,Non-churned customers do not have a churn date.
+Expected missing churn reasons,churn_reason,6009,Retained missing values,Non-churned customers do not have a churn reason.
+Invalid churn date strings,churn_date,0,No changes required,All populated churn dates were successfully parsed.
+Duplicate customer IDs,customer_id,0,No changes required,All customer IDs are unique.
+Exact duplicate rows,All columns,0,No changes required,No exact duplicate records were found.
+Invalid customer references,customer_id,0,No changes required,All customer IDs exist in customers_clean.
+Churn dates before registration,churn_date,0,No changes required,No churn dates were earlier than registration dates.
+Blank churn reasons,churn_reason,0,No changes required,All churned customers have nonblank churn reasons.

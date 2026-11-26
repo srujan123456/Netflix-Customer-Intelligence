@@ -1,0 +1,10 @@
+metric,value
+Anomalous subscription records,42.0
+Affected customers,42.0
+Average cancellation date difference (days),85.45
+Minimum difference (days),9.0
+Maximum difference (days),188.0
+Successful payments after cancellation,100.0
+Payments with subscription IDs,57.0
+Payments without subscription IDs,43.0
+Total post-cancellation payment amount,1409.0

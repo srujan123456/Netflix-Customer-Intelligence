@@ -1,0 +1,15 @@
+column,issue_identified,treatment_applied,records_affected
+payment_id,No duplicate payment IDs or missing values,No changes required,0
+customer_id,No missing customer IDs,No changes required,0
+subscription_id,1045 subscription IDs remained unmatched after reconciliation,Retained missing values; did not assign unsupported subscription IDs,1045
+payment_date,Payment dates initially stored as strings,Converted payment_date to datetime,110735
+amount,463 high amounts and 250 zero amounts identified; no negative amounts,Retained original amounts and added anomaly flags; no unsupported corrections or deletions,713
+payment_method,No missing values identified,No changes required,0
+payment_status,103529 successful and 7206 failed payments,Retained original payment statuses,0
+failed_payment_reason,"103529 missing values, all belonging to successful payments",Retained missing values because failure reasons are not applicable to successful payments,103529
+duplicates,No duplicate rows or payment IDs,No records removed,0
+amount,463 high-amount transactions identified using the IQR upper fence of 28.24,Investigated and retained original amounts; preserved high_amount_flag and amount_anomaly_type,463
+amount,"High amounts distributed across Basic, Standard and Premium plans","Recorded plan distribution: Basic 96, Standard 211, Premium 148, unmatched 8",463
+amount,"Repeated amount-to-monthly-price ratios observed: 2.0x, 3.4x and 11.0x are the dominant patterns",Investigated recurring patterns; retained original values because transaction-level explanations and verified replacement amounts were unavailable,463
+amount,12 customers had repeated high-amount transactions,Reviewed customer payment histories and retained the transactions for separate analysis,24
+amount,High amounts may affect standard subscription revenue calculations,Flagged transactions for separate reporting; exclude from validated standard subscription-revenue calculations until verified,463

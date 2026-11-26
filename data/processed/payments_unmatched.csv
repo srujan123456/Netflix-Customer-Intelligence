@@ -1,0 +1,1046 @@
+payment_id,customer_id,subscription_id,payment_date,amount,payment_method,payment_status,failed_payment_reason,match_count,match_status
+PAY00000085,CUST000007,,2026-05-28,15.49,PayPal,Success,,0,No matching subscription window
+PAY00000180,CUST000014,,2026-02-10,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00000181,CUST000014,,2026-03-12,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00000182,CUST000014,,2026-04-11,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00000183,CUST000014,,2026-05-11,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00001100,CUST000082,,2025-10-19,15.49,PayPal,Success,,0,No matching subscription window
+PAY00001101,CUST000082,,2025-11-18,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00001102,CUST000082,,2025-12-18,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00001103,CUST000082,,2026-01-17,15.49,Debit Card,Failed,International transaction blocked,0,No matching subscription window
+PAY00001104,CUST000082,,2026-02-16,15.49,PayPal,Success,,0,No matching subscription window
+PAY00001105,CUST000082,,2026-03-18,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00001106,CUST000082,,2026-04-17,15.49,PayPal,Success,,0,No matching subscription window
+PAY00001107,CUST000082,,2026-05-17,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00001240,CUST000092,,2026-03-13,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00001241,CUST000092,,2026-04-12,76.89,Mobile Wallet,Success,,0,No matching subscription window
+PAY00001242,CUST000092,,2026-05-12,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00001328,CUST000099,,2026-03-13,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00001329,CUST000099,,2026-04-12,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00001330,CUST000099,,2026-05-12,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00001474,CUST000110,,2026-03-20,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00001475,CUST000110,,2026-04-19,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00001476,CUST000110,,2026-05-19,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00001921,CUST000143,,2026-03-03,15.49,UPI,Success,,0,No matching subscription window
+PAY00001922,CUST000143,,2026-04-02,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00001923,CUST000143,,2026-05-02,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00002005,CUST000149,,2026-05-22,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00002146,CUST000160,,2026-04-11,22.99,UPI,Success,,0,No matching subscription window
+PAY00002147,CUST000160,,2026-05-11,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00002318,CUST000172,,2026-02-25,22.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00002319,CUST000172,,2026-03-27,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00002320,CUST000172,,2026-04-26,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00002321,CUST000172,,2026-05-26,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00002753,CUST000205,,2026-04-13,6.99,UPI,Success,,0,No matching subscription window
+PAY00002754,CUST000205,,2026-05-13,6.99,Credit Card,Failed,Incorrect card details,0,No matching subscription window
+PAY00003101,CUST000232,,2026-05-10,22.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00003168,CUST000237,,2026-03-05,22.99,UPI,Success,,0,No matching subscription window
+PAY00003169,CUST000237,,2026-04-04,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00003601,CUST000268,,2026-03-05,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00003602,CUST000268,,2026-04-04,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00003603,CUST000268,,2026-05-04,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00003908,CUST000290,,2026-04-14,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00003909,CUST000290,,2026-05-14,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00003988,CUST000296,,2026-01-30,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00003989,CUST000296,,2026-03-01,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00003990,CUST000296,,2026-03-31,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00003991,CUST000296,,2026-04-30,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00003992,CUST000296,,2026-05-30,15.49,UPI,Success,,0,No matching subscription window
+PAY00004027,CUST000299,,2026-01-11,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00004028,CUST000299,,2026-02-10,6.99,PayPal,Success,,0,No matching subscription window
+PAY00004029,CUST000299,,2026-03-12,6.99,Debit Card,Failed,Card reported lost/stolen,0,No matching subscription window
+PAY00004030,CUST000299,,2026-04-11,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00004031,CUST000299,,2026-05-11,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00004109,CUST000305,,2026-04-01,15.49,UPI,Success,,0,No matching subscription window
+PAY00004110,CUST000305,,2026-05-01,7.75,Debit Card,Success,,0,No matching subscription window
+PAY00004111,CUST000305,,2026-05-31,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00004216,CUST000314,,2026-04-01,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00004217,CUST000314,,2026-05-01,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00004218,CUST000314,,2026-05-31,6.99,PayPal,Success,,0,No matching subscription window
+PAY00004317,CUST000322,,2026-05-23,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00004420,CUST000330,,2026-03-26,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00004421,CUST000330,,2026-04-25,22.99,PayPal,Success,,0,No matching subscription window
+PAY00004422,CUST000330,,2026-05-25,22.99,PayPal,Success,,0,No matching subscription window
+PAY00004434,CUST000331,,2025-12-02,15.49,PayPal,Success,,0,No matching subscription window
+PAY00004435,CUST000331,,2026-01-01,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00004436,CUST000331,,2026-01-31,15.49,Gift Card,Failed,Incorrect card details,0,No matching subscription window
+PAY00004437,CUST000331,,2026-03-02,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00004443,CUST000333,,2025-12-13,15.49,UPI,Success,,0,No matching subscription window
+PAY00004444,CUST000333,,2026-01-12,15.49,UPI,Success,,0,No matching subscription window
+PAY00004445,CUST000333,,2026-02-11,15.49,UPI,Success,,0,No matching subscription window
+PAY00004446,CUST000333,,2026-03-13,15.49,PayPal,Success,,0,No matching subscription window
+PAY00004447,CUST000333,,2026-04-12,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00004448,CUST000333,,2026-05-12,15.49,UPI,Success,,0,No matching subscription window
+PAY00004501,CUST000337,,2026-01-07,6.99,UPI,Success,,0,No matching subscription window
+PAY00004502,CUST000337,,2026-02-06,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00004503,CUST000337,,2026-03-08,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00004504,CUST000337,,2026-04-07,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00004505,CUST000337,,2026-05-07,6.99,UPI,Success,,0,No matching subscription window
+PAY00006430,CUST000473,,2026-04-20,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00006431,CUST000473,,2026-05-20,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00006626,CUST000487,,2026-04-09,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00006627,CUST000487,,2026-05-09,22.99,UPI,Success,,0,No matching subscription window
+PAY00006751,CUST000497,,2025-11-10,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00006752,CUST000497,,2025-12-10,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00006753,CUST000497,,2026-01-09,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00006754,CUST000497,,2026-02-08,6.99,PayPal,Success,,0,No matching subscription window
+PAY00006755,CUST000497,,2026-03-10,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00006756,CUST000497,,2026-04-09,6.99,Credit Card,Failed,Bank declined,0,No matching subscription window
+PAY00006757,CUST000497,,2026-05-09,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00006805,CUST000501,,2026-05-10,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00006931,CUST000510,,2026-03-25,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00006932,CUST000510,,2026-04-24,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00006933,CUST000510,,2026-05-24,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00007149,CUST000525,,2025-12-28,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00007150,CUST000525,,2026-01-27,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00007151,CUST000525,,2026-02-26,15.49,Credit Card,Failed,Incorrect card details,0,No matching subscription window
+PAY00007152,CUST000525,,2026-03-28,15.49,UPI,Success,,0,No matching subscription window
+PAY00007153,CUST000525,,2026-04-27,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00007154,CUST000525,,2026-05-27,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00007303,CUST000535,,2026-04-29,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00007304,CUST000535,,2026-05-29,22.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00007659,CUST000559,,2026-04-05,22.99,UPI,Success,,0,No matching subscription window
+PAY00007660,CUST000559,,2026-05-05,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00007681,CUST000561,,2026-04-28,6.99,UPI,Success,,0,No matching subscription window
+PAY00007936,CUST000580,,2026-05-14,6.99,UPI,Success,,0,No matching subscription window
+PAY00009008,CUST000655,,2026-02-16,6.99,UPI,Success,,0,No matching subscription window
+PAY00009009,CUST000655,,2026-03-18,6.99,PayPal,Failed,International transaction blocked,0,No matching subscription window
+PAY00009010,CUST000655,,2026-04-17,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00009011,CUST000655,,2026-05-17,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00009035,CUST000657,,2025-11-07,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00009036,CUST000657,,2025-12-07,6.99,UPI,Success,,0,No matching subscription window
+PAY00009037,CUST000657,,2026-01-06,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00009038,CUST000657,,2026-02-05,6.99,PayPal,Success,,0,No matching subscription window
+PAY00009039,CUST000657,,2026-03-07,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00009040,CUST000657,,2026-04-06,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00009041,CUST000657,,2026-05-06,6.99,UPI,Success,,0,No matching subscription window
+PAY00009116,CUST000663,,2026-01-16,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00009117,CUST000663,,2026-02-15,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00009118,CUST000663,,2026-03-17,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00009119,CUST000663,,2026-04-16,6.99,PayPal,Success,,0,No matching subscription window
+PAY00009120,CUST000663,,2026-05-16,6.99,UPI,Success,,0,No matching subscription window
+PAY00009213,CUST000670,,2026-01-11,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00009315,CUST000677,,2025-10-29,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00009316,CUST000677,,2025-11-28,22.99,UPI,Failed,Incorrect card details,0,No matching subscription window
+PAY00009317,CUST000677,,2025-12-28,22.99,UPI,Success,,0,No matching subscription window
+PAY00009318,CUST000677,,2026-01-27,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00009686,CUST000704,,2026-02-06,22.99,UPI,Success,,0,No matching subscription window
+PAY00009687,CUST000704,,2026-03-08,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00009688,CUST000704,,2026-04-07,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00009689,CUST000704,,2026-05-07,22.99,Gift Card,Success,,0,No matching subscription window
+PAY00009799,CUST000714,,2026-04-01,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00009800,CUST000714,,2026-05-01,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00009801,CUST000714,,2026-05-31,15.49,Net Banking,Failed,Card expired,0,No matching subscription window
+PAY00009828,CUST000717,,2026-02-17,22.99,UPI,Failed,Card reported lost/stolen,0,No matching subscription window
+PAY00009829,CUST000717,,2026-03-19,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00009830,CUST000717,,2026-04-18,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00009831,CUST000717,,2026-05-18,22.99,PayPal,Success,,0,No matching subscription window
+PAY00010545,CUST000767,,2026-05-09,6.99,PayPal,Failed,Bank declined,0,No matching subscription window
+PAY00010841,CUST000790,,2026-05-12,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00011125,CUST000809,,2026-05-30,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00011220,CUST000816,,2026-01-01,6.99,UPI,Success,,0,No matching subscription window
+PAY00011221,CUST000816,,2026-01-31,76.89,Debit Card,Success,,0,No matching subscription window
+PAY00011280,CUST000820,,2025-11-25,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00011281,CUST000820,,2025-12-25,6.99,PayPal,Success,,0,No matching subscription window
+PAY00012064,CUST000874,,2026-02-02,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00012065,CUST000874,,2026-03-04,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00012066,CUST000874,,2026-04-03,6.99,UPI,Success,,0,No matching subscription window
+PAY00012067,CUST000874,,2026-05-03,6.99,PayPal,Success,,0,No matching subscription window
+PAY00012691,CUST000919,,2026-04-12,22.99,UPI,Failed,Bank declined,0,No matching subscription window
+PAY00012692,CUST000919,,2026-05-12,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00012726,CUST000922,,2026-05-21,6.99,PayPal,Success,,0,No matching subscription window
+PAY00013045,CUST000945,,2026-02-04,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00013046,CUST000945,,2026-03-06,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00013047,CUST000945,,2026-04-05,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00013048,CUST000945,,2026-05-05,15.49,Credit Card,Failed,Card reported lost/stolen,0,No matching subscription window
+PAY00013170,CUST000954,,2026-04-10,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00013171,CUST000954,,2026-05-10,22.99,PayPal,Success,,0,No matching subscription window
+PAY00013473,CUST000977,,2025-11-07,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00013474,CUST000977,,2025-12-07,15.49,PayPal,Success,,0,No matching subscription window
+PAY00013662,CUST000991,,2026-04-26,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00013663,CUST000991,,2026-05-26,6.99,Credit Card,Failed,Card expired,0,No matching subscription window
+PAY00013706,CUST000994,,2025-11-16,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00013707,CUST000994,,2025-12-16,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00013708,CUST000994,,2026-01-15,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00013719,CUST000996,,2026-05-05,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00014102,CUST001022,,2026-05-31,15.49,UPI,Success,,0,No matching subscription window
+PAY00014420,CUST001045,,2025-10-31,15.49,UPI,Success,,0,No matching subscription window
+PAY00014421,CUST001045,,2025-11-30,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00014422,CUST001045,,2025-12-30,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00014423,CUST001045,,2026-01-29,15.49,UPI,Success,,0,No matching subscription window
+PAY00014424,CUST001045,,2026-02-28,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00014425,CUST001045,,2026-03-30,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00014426,CUST001045,,2026-04-29,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00014427,CUST001045,,2026-05-29,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00014617,CUST001058,,2025-10-24,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00014618,CUST001058,,2025-11-23,6.99,Gift Card,Failed,Card expired,0,No matching subscription window
+PAY00014670,CUST001062,,2025-10-28,15.49,Debit Card,Failed,Insufficient funds,0,No matching subscription window
+PAY00014671,CUST001062,,2025-11-27,15.49,UPI,Success,,0,No matching subscription window
+PAY00014672,CUST001062,,2025-12-27,15.49,UPI,Success,,0,No matching subscription window
+PAY00014673,CUST001062,,2026-01-26,15.49,PayPal,Success,,0,No matching subscription window
+PAY00014674,CUST001062,,2026-02-25,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00014675,CUST001062,,2026-03-27,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00014676,CUST001062,,2026-04-26,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00014677,CUST001062,,2026-05-26,15.49,UPI,Success,,0,No matching subscription window
+PAY00014716,CUST001065,,2026-01-24,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00014717,CUST001065,,2026-02-23,6.99,PayPal,Success,,0,No matching subscription window
+PAY00014718,CUST001065,,2026-03-25,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00014719,CUST001065,,2026-04-24,6.99,PayPal,Success,,0,No matching subscription window
+PAY00014720,CUST001065,,2026-05-24,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00014726,CUST001066,,2026-05-18,6.99,Credit Card,Failed,Insufficient funds,0,No matching subscription window
+PAY00015003,CUST001088,,2026-02-21,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00015004,CUST001088,,2026-03-23,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00015005,CUST001088,,2026-04-22,6.99,Credit Card,Failed,Bank declined,0,No matching subscription window
+PAY00015006,CUST001088,,2026-05-22,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00015110,CUST001095,,2026-04-22,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00015111,CUST001095,,2026-05-22,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00015333,CUST001110,,2026-04-20,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00015334,CUST001110,,2026-05-20,22.99,Credit Card,Failed,Insufficient funds,0,No matching subscription window
+PAY00015357,CUST001113,,2026-03-25,6.99,UPI,Success,,0,No matching subscription window
+PAY00015358,CUST001113,,2026-04-24,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00015359,CUST001113,,2026-05-24,6.99,UPI,Success,,0,No matching subscription window
+PAY00015783,CUST001144,,2026-03-16,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00015784,CUST001144,,2026-04-15,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00015785,CUST001144,,2026-05-15,22.99,PayPal,Success,,0,No matching subscription window
+PAY00016144,CUST001171,,2026-04-22,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00016145,CUST001171,,2026-05-22,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00016163,CUST001173,,2026-05-01,22.99,Gift Card,Success,,0,No matching subscription window
+PAY00016164,CUST001173,,2026-05-31,22.99,UPI,Success,,0,No matching subscription window
+PAY00016661,CUST001209,,2026-03-08,15.49,UPI,Success,,0,No matching subscription window
+PAY00016662,CUST001209,,2026-04-07,15.49,UPI,Success,,0,No matching subscription window
+PAY00016663,CUST001209,,2026-05-07,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00016704,CUST001212,,2026-04-07,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00016705,CUST001212,,2026-05-07,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00016947,CUST001230,,2026-02-03,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00017431,CUST001264,,2026-05-26,6.99,PayPal,Success,,0,No matching subscription window
+PAY00017503,CUST001269,,2026-04-07,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00017504,CUST001269,,2026-05-07,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00017597,CUST001276,,2026-01-17,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00017681,CUST001283,,2026-05-16,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00018025,CUST001308,,2026-05-23,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00018028,CUST001309,,2026-04-17,15.49,Debit Card,Failed,Card expired,0,No matching subscription window
+PAY00018029,CUST001309,,2026-05-17,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00018228,CUST001325,,2026-05-17,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00018280,CUST001330,,2026-04-26,15.49,PayPal,Failed,Insufficient funds,0,No matching subscription window
+PAY00018281,CUST001330,,2026-05-26,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00019207,CUST001395,,2026-01-16,22.99,UPI,Success,,0,No matching subscription window
+PAY00019245,CUST001398,,2026-05-09,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00019767,CUST001435,,2026-01-10,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00019768,CUST001435,,2026-02-09,15.49,PayPal,Success,,0,No matching subscription window
+PAY00019769,CUST001435,,2026-03-11,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00019770,CUST001435,,2026-04-10,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00019771,CUST001435,,2026-05-10,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00020031,CUST001454,,2026-05-31,6.99,PayPal,Success,,0,No matching subscription window
+PAY00020193,CUST001467,,2026-04-18,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00020194,CUST001467,,2026-05-18,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00020196,CUST001468,,2026-02-06,22.99,UPI,Success,,0,No matching subscription window
+PAY00020197,CUST001468,,2026-03-08,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00020198,CUST001468,,2026-04-07,22.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00020199,CUST001468,,2026-05-07,22.99,UPI,Success,,0,No matching subscription window
+PAY00020248,CUST001472,,2026-05-26,15.49,Credit Card,Failed,Card expired,0,No matching subscription window
+PAY00020362,CUST001480,,2026-02-27,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00020363,CUST001480,,2026-03-29,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00020364,CUST001480,,2026-04-28,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00020365,CUST001480,,2026-05-28,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00021149,CUST001541,,2026-01-14,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00021150,CUST001541,,2026-02-13,6.99,UPI,Success,,0,No matching subscription window
+PAY00021151,CUST001541,,2026-03-15,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00021152,CUST001541,,2026-04-14,6.99,UPI,Success,,0,No matching subscription window
+PAY00021153,CUST001541,,2026-05-14,6.99,PayPal,Success,,0,No matching subscription window
+PAY00021269,CUST001549,,2026-03-25,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00021270,CUST001549,,2026-04-24,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00021271,CUST001549,,2026-05-24,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00021406,CUST001559,,2026-03-26,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00021407,CUST001559,,2026-04-25,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00021502,CUST001566,,2026-04-24,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00021503,CUST001566,,2026-05-24,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00021769,CUST001585,,2026-04-01,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00021770,CUST001585,,2026-05-01,15.49,UPI,Success,,0,No matching subscription window
+PAY00021771,CUST001585,,2026-05-31,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00023028,CUST001675,,2026-05-10,22.99,Gift Card,Success,,0,No matching subscription window
+PAY00023187,CUST001688,,2026-02-06,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00023188,CUST001688,,2026-03-08,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00023189,CUST001688,,2026-04-07,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00023190,CUST001688,,2026-05-07,22.99,Gift Card,Failed,International transaction blocked,0,No matching subscription window
+PAY00023226,CUST001691,,2025-12-12,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00023227,CUST001691,,2026-01-11,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00023228,CUST001691,,2026-02-10,15.49,UPI,Success,,0,No matching subscription window
+PAY00023229,CUST001691,,2026-03-12,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00023230,CUST001691,,2026-04-11,15.49,UPI,Success,,0,No matching subscription window
+PAY00023231,CUST001691,,2026-05-11,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00023291,CUST001696,,2026-03-06,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00023292,CUST001696,,2026-04-05,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00023293,CUST001696,,2026-05-05,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00023485,CUST001711,,2026-01-19,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00023486,CUST001711,,2026-02-18,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00023487,CUST001711,,2026-03-20,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00023488,CUST001711,,2026-04-19,22.99,UPI,Success,,0,No matching subscription window
+PAY00023489,CUST001711,,2026-05-19,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00024621,CUST001792,,2025-11-27,15.49,UPI,Success,,0,No matching subscription window
+PAY00024622,CUST001792,,2025-12-27,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00024623,CUST001792,,2026-01-26,15.49,UPI,Success,,0,No matching subscription window
+PAY00025149,CUST001829,,2025-10-22,6.99,PayPal,Success,,0,No matching subscription window
+PAY00025150,CUST001829,,2025-11-21,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00025151,CUST001829,,2025-12-21,6.99,PayPal,Success,,0,No matching subscription window
+PAY00025152,CUST001829,,2026-01-20,6.99,UPI,Failed,Incorrect card details,0,No matching subscription window
+PAY00025153,CUST001829,,2026-02-19,6.99,UPI,Success,,0,No matching subscription window
+PAY00025154,CUST001829,,2026-03-21,6.99,PayPal,Success,,0,No matching subscription window
+PAY00025155,CUST001829,,2026-04-20,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00025156,CUST001829,,2026-05-20,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00025420,CUST001850,,2026-03-23,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00025421,CUST001850,,2026-04-22,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00025422,CUST001850,,2026-05-22,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00025824,CUST001881,,2025-12-04,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00025825,CUST001881,,2026-01-03,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00025826,CUST001881,,2026-02-02,252.89,Credit Card,Success,,0,No matching subscription window
+PAY00025827,CUST001881,,2026-03-04,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00025828,CUST001881,,2026-04-03,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00025829,CUST001881,,2026-05-03,22.99,UPI,Success,,0,No matching subscription window
+PAY00025949,CUST001890,,2026-05-25,6.99,Debit Card,Failed,Card expired,0,No matching subscription window
+PAY00026238,CUST001911,,2026-03-05,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00026239,CUST001911,,2026-04-04,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00026770,CUST001948,,2026-02-14,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00026771,CUST001948,,2026-03-16,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00026772,CUST001948,,2026-04-15,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00026773,CUST001948,,2026-05-15,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00027084,CUST001971,,2026-04-22,15.49,UPI,Success,,0,No matching subscription window
+PAY00027085,CUST001971,,2026-05-22,15.49,UPI,Success,,0,No matching subscription window
+PAY00027448,CUST001998,,2025-12-12,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00027449,CUST001998,,2026-01-11,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00027450,CUST001998,,2026-02-10,6.99,PayPal,Success,,0,No matching subscription window
+PAY00027451,CUST001998,,2026-03-12,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00027452,CUST001998,,2026-04-11,6.99,Debit Card,Failed,Bank declined,0,No matching subscription window
+PAY00027453,CUST001998,,2026-05-11,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00027948,CUST002034,,2026-01-09,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00027949,CUST002034,,2026-02-08,15.49,UPI,Failed,Card reported lost/stolen,0,No matching subscription window
+PAY00027950,CUST002034,,2026-03-10,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00027951,CUST002034,,2026-04-09,15.49,PayPal,Success,,0,No matching subscription window
+PAY00027952,CUST002034,,2026-05-09,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00027990,CUST002037,,2026-01-03,15.49,PayPal,Success,,0,No matching subscription window
+PAY00027991,CUST002037,,2026-02-02,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00027992,CUST002037,,2026-03-04,15.49,UPI,Success,,0,No matching subscription window
+PAY00027993,CUST002037,,2026-04-03,15.49,UPI,Success,,0,No matching subscription window
+PAY00027994,CUST002037,,2026-05-03,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00028271,CUST002057,,2026-04-16,6.99,UPI,Failed,Card expired,0,No matching subscription window
+PAY00028272,CUST002057,,2026-05-16,6.99,PayPal,Success,,0,No matching subscription window
+PAY00028495,CUST002076,,2025-12-22,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00028496,CUST002076,,2026-01-21,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00028497,CUST002076,,2026-02-20,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00028498,CUST002076,,2026-03-22,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00028499,CUST002076,,2026-04-21,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00028500,CUST002076,,2026-05-21,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00029006,CUST002112,,2026-01-30,15.49,PayPal,Success,,0,No matching subscription window
+PAY00029007,CUST002112,,2026-03-01,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00029008,CUST002112,,2026-03-31,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00029009,CUST002112,,2026-04-30,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00029010,CUST002112,,2026-05-30,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00029130,CUST002123,,2025-12-11,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00029131,CUST002123,,2026-01-10,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00029132,CUST002123,,2026-02-09,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00029133,CUST002123,,2026-03-11,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00029134,CUST002123,,2026-04-10,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00029135,CUST002123,,2026-05-10,6.99,UPI,Success,,0,No matching subscription window
+PAY00029465,CUST002148,,2026-04-22,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00029466,CUST002148,,2026-05-22,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00029894,CUST002180,,2026-01-05,15.49,PayPal,Success,,0,No matching subscription window
+PAY00029895,CUST002180,,2026-02-04,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00029896,CUST002180,,2026-03-06,15.49,Mobile Wallet,Failed,Card reported lost/stolen,0,No matching subscription window
+PAY00029897,CUST002180,,2026-04-05,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00029898,CUST002180,,2026-05-05,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00030449,CUST002218,,2026-02-26,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00030450,CUST002218,,2026-03-28,6.99,UPI,Success,,0,No matching subscription window
+PAY00030451,CUST002218,,2026-04-27,6.99,Mobile Wallet,Failed,Incorrect card details,0,No matching subscription window
+PAY00030452,CUST002218,,2026-05-27,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00030581,CUST002227,,2025-10-21,6.99,Credit Card,Failed,Insufficient funds,0,No matching subscription window
+PAY00030582,CUST002227,,2025-11-20,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00030583,CUST002227,,2025-12-20,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00030584,CUST002227,,2026-01-19,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00030585,CUST002227,,2026-02-18,6.99,UPI,Success,,0,No matching subscription window
+PAY00030586,CUST002227,,2026-03-20,6.99,UPI,Success,,0,No matching subscription window
+PAY00030823,CUST002244,,2026-01-26,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00030824,CUST002244,,2026-02-25,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00030825,CUST002244,,2026-03-27,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00030826,CUST002244,,2026-04-26,6.99,PayPal,Success,,0,No matching subscription window
+PAY00030827,CUST002244,,2026-05-26,6.99,UPI,Success,,0,No matching subscription window
+PAY00030911,CUST002251,,2026-05-16,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00031151,CUST002268,,2025-12-05,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00031152,CUST002268,,2026-01-04,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00031253,CUST002277,,2026-04-12,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00031254,CUST002277,,2026-05-12,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00031374,CUST002285,,2026-02-11,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00031543,CUST002297,,2026-04-04,15.49,PayPal,Success,,0,No matching subscription window
+PAY00031544,CUST002297,,2026-05-04,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00032174,CUST002340,,2026-02-15,6.99,PayPal,Success,,0,No matching subscription window
+PAY00032175,CUST002340,,2026-03-17,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00032176,CUST002340,,2026-04-16,0.0,PayPal,Success,,0,No matching subscription window
+PAY00032479,CUST002363,,2026-01-09,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00032480,CUST002363,,2026-02-08,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00032481,CUST002363,,2026-03-10,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00032482,CUST002363,,2026-04-09,22.99,PayPal,Failed,Card reported lost/stolen,0,No matching subscription window
+PAY00032483,CUST002363,,2026-05-09,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00033240,CUST002420,,2026-04-30,15.49,PayPal,Success,,0,No matching subscription window
+PAY00033241,CUST002420,,2026-05-30,15.49,Credit Card,Failed,Incorrect card details,0,No matching subscription window
+PAY00033705,CUST002452,,2025-10-23,6.99,PayPal,Success,,0,No matching subscription window
+PAY00033706,CUST002452,,2025-11-22,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00033707,CUST002452,,2025-12-22,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00033708,CUST002452,,2026-01-21,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00033709,CUST002452,,2026-02-20,6.99,PayPal,Success,,0,No matching subscription window
+PAY00033710,CUST002452,,2026-03-22,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00033711,CUST002452,,2026-04-21,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00034379,CUST002502,,2026-01-11,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00034380,CUST002502,,2026-02-10,15.49,UPI,Success,,0,No matching subscription window
+PAY00034381,CUST002502,,2026-03-12,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00034382,CUST002502,,2026-04-11,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00034383,CUST002502,,2026-05-11,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00034786,CUST002530,,2026-01-14,22.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00035165,CUST002557,,2025-12-04,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00035684,CUST002594,,2026-04-29,15.49,UPI,Success,,0,No matching subscription window
+PAY00035685,CUST002594,,2026-05-29,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00035860,CUST002607,,2026-04-09,15.49,Debit Card,Failed,Bank declined,0,No matching subscription window
+PAY00035861,CUST002607,,2026-05-09,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00035896,CUST002610,,2026-02-06,15.49,PayPal,Success,,0,No matching subscription window
+PAY00035897,CUST002610,,2026-03-08,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00035898,CUST002610,,2026-04-07,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00035899,CUST002610,,2026-05-07,15.49,UPI,Success,,0,No matching subscription window
+PAY00036119,CUST002626,,2026-05-14,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00036896,CUST002681,,2026-03-25,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00036897,CUST002681,,2026-04-24,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00036898,CUST002681,,2026-05-24,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00038665,CUST002806,,2026-04-19,22.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00038666,CUST002806,,2026-05-19,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00038764,CUST002813,,2026-01-04,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00038765,CUST002813,,2026-02-03,6.99,UPI,Success,,0,No matching subscription window
+PAY00038766,CUST002813,,2026-03-05,6.99,UPI,Failed,International transaction blocked,0,No matching subscription window
+PAY00038767,CUST002813,,2026-04-04,6.99,Gift Card,Failed,Incorrect card details,0,No matching subscription window
+PAY00038768,CUST002813,,2026-05-04,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00038936,CUST002825,,2025-11-02,15.49,UPI,Success,,0,No matching subscription window
+PAY00039083,CUST002835,,2026-05-16,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00039142,CUST002840,,2026-02-07,6.99,PayPal,Success,,0,No matching subscription window
+PAY00039143,CUST002840,,2026-03-09,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00039144,CUST002840,,2026-04-08,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00039145,CUST002840,,2026-05-08,6.99,UPI,Success,,0,No matching subscription window
+PAY00039591,CUST002872,,2026-04-04,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00039592,CUST002872,,2026-05-04,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00039634,CUST002875,,2025-11-04,15.49,Credit Card,Failed,Insufficient funds,0,No matching subscription window
+PAY00039635,CUST002875,,2025-12-04,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00039636,CUST002875,,2026-01-03,15.49,PayPal,Success,,0,No matching subscription window
+PAY00039637,CUST002875,,2026-02-02,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00039740,CUST002882,,2025-11-04,6.99,UPI,Success,,0,No matching subscription window
+PAY00039741,CUST002882,,2025-12-04,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00039742,CUST002882,,2026-01-03,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00040026,CUST002904,,2026-03-06,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00040027,CUST002904,,2026-04-05,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00040028,CUST002904,,2026-05-05,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00040385,CUST002931,,2026-04-15,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00040386,CUST002931,,2026-05-15,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00040837,CUST002963,,2026-04-16,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00040838,CUST002963,,2026-05-16,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00041597,CUST003017,,2026-05-12,6.99,UPI,Success,,0,No matching subscription window
+PAY00041600,CUST003018,,2026-04-14,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00041601,CUST003018,,2026-05-14,6.99,PayPal,Success,,0,No matching subscription window
+PAY00042356,CUST003072,,2025-12-29,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00042357,CUST003072,,2026-01-28,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00042358,CUST003072,,2026-02-27,15.49,UPI,Success,,0,No matching subscription window
+PAY00042359,CUST003072,,2026-03-29,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00042360,CUST003072,,2026-04-28,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00042361,CUST003072,,2026-05-28,15.49,PayPal,Success,,0,No matching subscription window
+PAY00043227,CUST003134,,2026-01-26,6.99,UPI,Success,,0,No matching subscription window
+PAY00043228,CUST003134,,2026-02-25,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00043229,CUST003134,,2026-03-27,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00043230,CUST003134,,2026-04-26,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00043231,CUST003134,,2026-05-26,6.99,PayPal,Success,,0,No matching subscription window
+PAY00043953,CUST003186,,2026-05-19,15.49,PayPal,Success,,0,No matching subscription window
+PAY00044030,CUST003192,,2026-05-29,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00045633,CUST003310,,2026-05-20,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00045729,CUST003317,,2026-01-10,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00045730,CUST003317,,2026-02-09,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00045731,CUST003317,,2026-03-11,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00045732,CUST003317,,2026-04-10,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00045733,CUST003317,,2026-05-10,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00045874,CUST003328,,2026-05-10,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00045946,CUST003334,,2025-12-08,15.49,PayPal,Success,,0,No matching subscription window
+PAY00046000,CUST003338,,2025-11-01,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00046001,CUST003338,,2025-12-01,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00046002,CUST003338,,2025-12-31,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00046003,CUST003338,,2026-01-30,6.99,PayPal,Success,,0,No matching subscription window
+PAY00046004,CUST003338,,2026-03-01,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00046005,CUST003338,,2026-03-31,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00046006,CUST003338,,2026-04-30,6.99,Net Banking,Failed,Bank declined,0,No matching subscription window
+PAY00046115,CUST003346,,2026-03-13,6.99,PayPal,Success,,0,No matching subscription window
+PAY00046116,CUST003346,,2026-04-12,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00046117,CUST003346,,2026-05-12,6.99,UPI,Success,,0,No matching subscription window
+PAY00046466,CUST003370,,2025-10-19,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00046467,CUST003370,,2025-11-18,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00046751,CUST003391,,2026-04-25,6.99,Credit Card,Failed,Card reported lost/stolen,0,No matching subscription window
+PAY00046752,CUST003391,,2026-05-25,6.99,UPI,Success,,0,No matching subscription window
+PAY00046803,CUST003395,,2026-05-17,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00046807,CUST003396,,2026-05-13,15.49,PayPal,Success,,0,No matching subscription window
+PAY00047245,CUST003431,,2026-01-29,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00047246,CUST003431,,2026-02-28,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00047247,CUST003431,,2026-03-30,6.99,UPI,Success,,0,No matching subscription window
+PAY00047248,CUST003431,,2026-04-29,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00047249,CUST003431,,2026-05-29,6.99,UPI,Success,,0,No matching subscription window
+PAY00047365,CUST003441,,2026-04-30,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00047366,CUST003441,,2026-05-30,6.99,UPI,Success,,0,No matching subscription window
+PAY00049185,CUST003570,,2026-03-01,15.49,UPI,Success,,0,No matching subscription window
+PAY00049838,CUST003618,,2026-03-13,15.49,UPI,Success,,0,No matching subscription window
+PAY00049839,CUST003618,,2026-04-12,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00049840,CUST003618,,2026-05-12,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00049908,CUST003623,,2026-02-06,6.99,Mobile Wallet,Failed,Bank declined,0,No matching subscription window
+PAY00049909,CUST003623,,2026-03-08,6.99,Credit Card,Failed,Bank declined,0,No matching subscription window
+PAY00049910,CUST003623,,2026-04-07,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00049911,CUST003623,,2026-05-07,6.99,PayPal,Success,,0,No matching subscription window
+PAY00050037,CUST003632,,2026-04-10,6.99,UPI,Success,,0,No matching subscription window
+PAY00050038,CUST003632,,2026-05-10,6.99,PayPal,Success,,0,No matching subscription window
+PAY00050121,CUST003639,,2025-12-06,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00050122,CUST003639,,2026-01-05,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00050123,CUST003639,,2026-02-04,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00050124,CUST003639,,2026-03-06,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00050125,CUST003639,,2026-04-05,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00050126,CUST003639,,2026-05-05,6.99,PayPal,Success,,0,No matching subscription window
+PAY00050278,CUST003650,,2026-05-04,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00050354,CUST003656,,2026-04-21,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00050355,CUST003656,,2026-05-21,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00050684,CUST003680,,2026-01-05,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00050685,CUST003680,,2026-02-04,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00050686,CUST003680,,2026-03-06,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00050687,CUST003680,,2026-04-05,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00050688,CUST003680,,2026-05-05,15.49,UPI,Success,,0,No matching subscription window
+PAY00050699,CUST003681,,2026-03-20,6.99,UPI,Success,,0,No matching subscription window
+PAY00050700,CUST003681,,2026-04-19,6.99,PayPal,Success,,0,No matching subscription window
+PAY00050701,CUST003681,,2026-05-19,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00050804,CUST003688,,2025-11-23,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00050805,CUST003688,,2025-12-23,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00050806,CUST003688,,2026-01-22,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00051096,CUST003708,,2025-12-16,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00051097,CUST003708,,2026-01-15,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00051098,CUST003708,,2026-02-14,6.99,PayPal,Success,,0,No matching subscription window
+PAY00051099,CUST003708,,2026-03-16,6.99,PayPal,Success,,0,No matching subscription window
+PAY00051100,CUST003708,,2026-04-15,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00051101,CUST003708,,2026-05-15,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00051388,CUST003729,,2026-04-14,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00051389,CUST003729,,2026-05-14,52.67,Credit Card,Success,,0,No matching subscription window
+PAY00052245,CUST003790,,2026-05-19,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00052307,CUST003795,,2026-02-21,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00052308,CUST003795,,2026-03-23,6.99,UPI,Success,,0,No matching subscription window
+PAY00052309,CUST003795,,2026-04-22,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00052310,CUST003795,,2026-05-22,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00052394,CUST003801,,2026-04-20,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00052395,CUST003801,,2026-05-20,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00052544,CUST003812,,2025-10-11,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00052545,CUST003812,,2025-11-10,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00052546,CUST003812,,2025-12-10,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00052547,CUST003812,,2026-01-09,6.99,PayPal,Success,,0,No matching subscription window
+PAY00052548,CUST003812,,2026-02-08,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00052549,CUST003812,,2026-03-10,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00053153,CUST003854,,2026-05-08,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00053248,CUST003861,,2025-12-30,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00053249,CUST003861,,2026-01-29,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00054650,CUST003963,,2026-03-02,15.49,UPI,Success,,0,No matching subscription window
+PAY00054651,CUST003963,,2026-04-01,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00054652,CUST003963,,2026-05-01,15.49,UPI,Success,,0,No matching subscription window
+PAY00054938,CUST003983,,2025-10-14,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00054939,CUST003983,,2025-11-13,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00054940,CUST003983,,2025-12-13,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00054941,CUST003983,,2026-01-12,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00054942,CUST003983,,2026-02-11,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00055234,CUST004005,,2026-04-05,22.99,PayPal,Success,,0,No matching subscription window
+PAY00055235,CUST004005,,2026-05-05,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00055297,CUST004010,,2026-05-22,6.99,Debit Card,Failed,Card reported lost/stolen,0,No matching subscription window
+PAY00055587,CUST004030,,2026-02-04,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00055588,CUST004030,,2026-03-06,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00055589,CUST004030,,2026-04-05,6.99,PayPal,Failed,Bank declined,0,No matching subscription window
+PAY00055590,CUST004030,,2026-05-05,23.77,PayPal,Success,,0,No matching subscription window
+PAY00056363,CUST004084,,2026-04-02,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00056714,CUST004110,,2026-03-16,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00056715,CUST004110,,2026-04-15,6.99,PayPal,Success,,0,No matching subscription window
+PAY00057050,CUST004134,,2026-03-02,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00057051,CUST004134,,2026-04-01,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00057052,CUST004134,,2026-05-01,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00057053,CUST004134,,2026-05-31,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00057261,CUST004148,,2026-05-05,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00057344,CUST004155,,2026-01-27,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00057345,CUST004155,,2026-02-26,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00057346,CUST004155,,2026-03-28,6.99,PayPal,Failed,International transaction blocked,0,No matching subscription window
+PAY00057347,CUST004155,,2026-04-27,6.99,Gift Card,Failed,Bank declined,0,No matching subscription window
+PAY00057348,CUST004155,,2026-05-27,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00057533,CUST004168,,2026-04-30,15.49,UPI,Success,,0,No matching subscription window
+PAY00057534,CUST004168,,2026-05-30,15.49,PayPal,Success,,0,No matching subscription window
+PAY00058027,CUST004207,,2026-02-22,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00058028,CUST004207,,2026-03-24,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00058029,CUST004207,,2026-04-23,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00058030,CUST004207,,2026-05-23,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00058123,CUST004214,,2026-05-21,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00058209,CUST004220,,2025-12-23,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00058210,CUST004220,,2026-01-22,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00058211,CUST004220,,2026-02-21,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00058212,CUST004220,,2026-03-23,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00058213,CUST004220,,2026-04-22,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00058768,CUST004260,,2026-01-30,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00058769,CUST004260,,2026-03-01,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00058770,CUST004260,,2026-03-31,15.49,UPI,Success,,0,No matching subscription window
+PAY00058771,CUST004260,,2026-04-30,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00058772,CUST004260,,2026-05-30,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00058814,CUST004264,,2026-04-17,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00058815,CUST004264,,2026-05-17,15.49,PayPal,Success,,0,No matching subscription window
+PAY00059907,CUST004343,,2025-11-11,15.49,PayPal,Success,,0,No matching subscription window
+PAY00059908,CUST004343,,2025-12-11,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00059909,CUST004343,,2026-01-10,7.75,PayPal,Success,,0,No matching subscription window
+PAY00059910,CUST004343,,2026-02-09,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00059911,CUST004343,,2026-03-11,15.49,UPI,Success,,0,No matching subscription window
+PAY00059912,CUST004343,,2026-04-10,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00059931,CUST004345,,2026-02-09,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00059932,CUST004345,,2026-03-11,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00059933,CUST004345,,2026-04-10,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00059934,CUST004345,,2026-05-10,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00060389,CUST004377,,2026-05-22,6.99,Mobile Wallet,Failed,Bank declined,0,No matching subscription window
+PAY00060428,CUST004381,,2025-10-26,6.99,PayPal,Success,,0,No matching subscription window
+PAY00060429,CUST004381,,2025-11-25,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00060430,CUST004381,,2025-12-25,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00060431,CUST004381,,2026-01-24,6.99,PayPal,Success,,0,No matching subscription window
+PAY00060432,CUST004381,,2026-02-23,6.99,UPI,Success,,0,No matching subscription window
+PAY00060433,CUST004381,,2026-03-25,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00060434,CUST004381,,2026-04-24,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00060435,CUST004381,,2026-05-24,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00060475,CUST004384,,2026-04-23,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00060476,CUST004384,,2026-05-23,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00060917,CUST004417,,2026-03-08,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00060918,CUST004417,,2026-04-07,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00060919,CUST004417,,2026-05-07,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00060967,CUST004421,,2026-05-18,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00061011,CUST004425,,2026-02-17,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00061012,CUST004425,,2026-03-19,22.99,PayPal,Success,,0,No matching subscription window
+PAY00061013,CUST004425,,2026-04-18,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00061014,CUST004425,,2026-05-18,22.99,Gift Card,Success,,0,No matching subscription window
+PAY00061633,CUST004468,,2026-03-19,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00061634,CUST004468,,2026-04-18,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00061635,CUST004468,,2026-05-18,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00061804,CUST004480,,2025-10-28,15.49,Credit Card,Failed,Card expired,0,No matching subscription window
+PAY00061805,CUST004480,,2025-11-27,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00061806,CUST004480,,2025-12-27,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00061807,CUST004480,,2026-01-26,15.49,PayPal,Success,,0,No matching subscription window
+PAY00061808,CUST004480,,2026-02-25,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00061809,CUST004480,,2026-03-27,15.49,UPI,Success,,0,No matching subscription window
+PAY00061810,CUST004480,,2026-04-26,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00061811,CUST004480,,2026-05-26,7.75,PayPal,Success,,0,No matching subscription window
+PAY00062092,CUST004500,,2025-12-03,6.99,Net Banking,Failed,Incorrect card details,0,No matching subscription window
+PAY00062093,CUST004500,,2026-01-02,6.99,UPI,Success,,0,No matching subscription window
+PAY00062094,CUST004500,,2026-02-01,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00062095,CUST004500,,2026-03-03,6.99,PayPal,Success,,0,No matching subscription window
+PAY00062096,CUST004500,,2026-04-02,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00062097,CUST004500,,2026-05-02,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00062295,CUST004515,,2026-05-06,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00062602,CUST004536,,2025-11-22,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00063779,CUST004621,,2026-02-04,15.49,PayPal,Success,,0,No matching subscription window
+PAY00063780,CUST004621,,2026-03-06,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00063781,CUST004621,,2026-04-05,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00063782,CUST004621,,2026-05-05,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00064091,CUST004644,,2026-02-05,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00064092,CUST004644,,2026-03-07,15.49,PayPal,Success,,0,No matching subscription window
+PAY00064204,CUST004654,,2025-12-29,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00064205,CUST004654,,2026-01-28,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00064206,CUST004654,,2026-02-27,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00064207,CUST004654,,2026-03-29,6.99,Credit Card,Failed,Bank declined,0,No matching subscription window
+PAY00064208,CUST004654,,2026-04-28,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00064209,CUST004654,,2026-05-28,6.99,UPI,Success,,0,No matching subscription window
+PAY00064669,CUST004687,,2025-12-02,6.99,UPI,Success,,0,No matching subscription window
+PAY00064670,CUST004687,,2026-01-01,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00064671,CUST004687,,2026-01-31,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00064672,CUST004687,,2026-03-02,6.99,PayPal,Success,,0,No matching subscription window
+PAY00064673,CUST004687,,2026-04-01,6.99,UPI,Success,,0,No matching subscription window
+PAY00064674,CUST004687,,2026-05-01,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00064675,CUST004687,,2026-05-31,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00064853,CUST004701,,2025-12-04,6.99,Credit Card,Failed,Insufficient funds,0,No matching subscription window
+PAY00064854,CUST004701,,2026-01-03,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00064855,CUST004701,,2026-02-02,6.99,UPI,Success,,0,No matching subscription window
+PAY00064856,CUST004701,,2026-03-04,6.99,UPI,Failed,Card reported lost/stolen,0,No matching subscription window
+PAY00064857,CUST004701,,2026-04-03,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00064858,CUST004701,,2026-05-03,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00065373,CUST004738,,2026-02-17,15.49,UPI,Success,,0,No matching subscription window
+PAY00065374,CUST004738,,2026-03-19,15.49,UPI,Success,,0,No matching subscription window
+PAY00065375,CUST004738,,2026-04-18,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00065376,CUST004738,,2026-05-18,15.49,UPI,Success,,0,No matching subscription window
+PAY00065393,CUST004740,,2026-04-11,13.98,Credit Card,Success,,0,No matching subscription window
+PAY00065394,CUST004740,,2026-05-11,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00066528,CUST004822,,2026-02-28,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00066529,CUST004822,,2026-03-30,170.39,Credit Card,Success,,0,No matching subscription window
+PAY00066530,CUST004822,,2026-04-29,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00066931,CUST004851,,2026-04-14,22.99,PayPal,Success,,0,No matching subscription window
+PAY00066932,CUST004851,,2026-05-14,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00067183,CUST004868,,2025-12-31,15.49,PayPal,Success,,0,No matching subscription window
+PAY00067184,CUST004868,,2026-01-30,15.49,UPI,Success,,0,No matching subscription window
+PAY00067185,CUST004868,,2026-03-01,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00067186,CUST004868,,2026-03-31,15.49,UPI,Success,,0,No matching subscription window
+PAY00067187,CUST004868,,2026-04-30,15.49,PayPal,Success,,0,No matching subscription window
+PAY00068220,CUST004942,,2025-11-15,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00068221,CUST004942,,2025-12-15,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00068222,CUST004942,,2026-01-14,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00068223,CUST004942,,2026-02-13,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00068224,CUST004942,,2026-03-15,22.99,Credit Card,Failed,Insufficient funds,0,No matching subscription window
+PAY00068225,CUST004942,,2026-04-14,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00068226,CUST004942,,2026-05-14,22.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00069252,CUST005015,,2025-10-16,6.99,UPI,Success,,0,No matching subscription window
+PAY00069253,CUST005015,,2025-11-15,6.99,UPI,Success,,0,No matching subscription window
+PAY00069254,CUST005015,,2025-12-15,6.99,UPI,Success,,0,No matching subscription window
+PAY00069255,CUST005015,,2026-01-14,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00069256,CUST005015,,2026-02-13,6.99,UPI,Failed,Card expired,0,No matching subscription window
+PAY00069257,CUST005015,,2026-03-15,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00069555,CUST005038,,2026-01-31,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00069556,CUST005038,,2026-03-02,22.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00069557,CUST005038,,2026-04-01,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00069558,CUST005038,,2026-05-01,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00069559,CUST005038,,2026-05-31,22.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00070082,CUST005077,,2025-10-22,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00070083,CUST005077,,2025-11-21,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00070084,CUST005077,,2025-12-21,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00070085,CUST005077,,2026-01-20,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00070086,CUST005077,,2026-02-19,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00070087,CUST005077,,2026-03-21,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00070088,CUST005077,,2026-04-20,6.99,PayPal,Success,,0,No matching subscription window
+PAY00070394,CUST005099,,2026-04-04,15.49,UPI,Success,,0,No matching subscription window
+PAY00070395,CUST005099,,2026-05-04,170.39,Credit Card,Success,,0,No matching subscription window
+PAY00071131,CUST005155,,2026-02-07,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00071132,CUST005155,,2026-03-09,15.49,PayPal,Success,,0,No matching subscription window
+PAY00071133,CUST005155,,2026-04-08,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00071134,CUST005155,,2026-05-08,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00071156,CUST005157,,2026-05-27,15.49,PayPal,Success,,0,No matching subscription window
+PAY00071489,CUST005181,,2025-10-29,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00071490,CUST005181,,2025-11-28,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00071491,CUST005181,,2025-12-28,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00071492,CUST005181,,2026-01-27,22.99,Gift Card,Success,,0,No matching subscription window
+PAY00071493,CUST005181,,2026-02-26,22.99,Gift Card,Success,,0,No matching subscription window
+PAY00071572,CUST005187,,2026-04-19,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00071573,CUST005187,,2026-05-19,15.49,UPI,Success,,0,No matching subscription window
+PAY00071607,CUST005190,,2025-12-10,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00071608,CUST005190,,2026-01-09,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00071609,CUST005190,,2026-02-08,15.49,PayPal,Success,,0,No matching subscription window
+PAY00071610,CUST005190,,2026-03-10,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00071611,CUST005190,,2026-04-09,15.49,PayPal,Success,,0,No matching subscription window
+PAY00071612,CUST005190,,2026-05-09,15.49,UPI,Success,,0,No matching subscription window
+PAY00072629,CUST005261,,2026-03-05,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00072630,CUST005261,,2026-04-04,15.49,Debit Card,Failed,Insufficient funds,0,No matching subscription window
+PAY00073013,CUST005289,,2026-05-27,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00073061,CUST005293,,2026-04-09,15.49,PayPal,Success,,0,No matching subscription window
+PAY00073062,CUST005293,,2026-05-09,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00073505,CUST005325,,2026-01-14,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00073506,CUST005325,,2026-02-13,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00073507,CUST005325,,2026-03-15,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00073508,CUST005325,,2026-04-14,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00073509,CUST005325,,2026-05-14,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00074076,CUST005368,,2026-05-02,6.99,UPI,Success,,0,No matching subscription window
+PAY00074689,CUST005412,,2025-12-02,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00074690,CUST005412,,2026-01-01,6.99,Net Banking,Failed,International transaction blocked,0,No matching subscription window
+PAY00074691,CUST005412,,2026-01-31,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00074692,CUST005412,,2026-03-02,6.99,UPI,Success,,0,No matching subscription window
+PAY00074693,CUST005412,,2026-04-01,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00074694,CUST005412,,2026-05-01,6.99,UPI,Success,,0,No matching subscription window
+PAY00075278,CUST005455,,2026-04-21,22.99,UPI,Failed,International transaction blocked,0,No matching subscription window
+PAY00075279,CUST005455,,2026-05-21,22.99,PayPal,Success,,0,No matching subscription window
+PAY00075308,CUST005457,,2026-04-16,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00075309,CUST005457,,2026-05-16,22.99,UPI,Success,,0,No matching subscription window
+PAY00075344,CUST005460,,2026-01-30,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00075345,CUST005460,,2026-03-01,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00075346,CUST005460,,2026-03-31,15.49,PayPal,Success,,0,No matching subscription window
+PAY00075347,CUST005460,,2026-04-30,15.49,PayPal,Success,,0,No matching subscription window
+PAY00075348,CUST005460,,2026-05-30,15.49,PayPal,Success,,0,No matching subscription window
+PAY00075629,CUST005479,,2025-11-08,15.49,UPI,Failed,Card expired,0,No matching subscription window
+PAY00075630,CUST005479,,2025-12-08,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00075631,CUST005479,,2026-01-07,15.49,PayPal,Success,,0,No matching subscription window
+PAY00075632,CUST005479,,2026-02-06,15.49,PayPal,Success,,0,No matching subscription window
+PAY00076041,CUST005508,,2026-05-09,6.99,PayPal,Success,,0,No matching subscription window
+PAY00076449,CUST005537,,2025-12-19,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00076450,CUST005537,,2026-01-18,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00076451,CUST005537,,2026-02-17,15.49,UPI,Success,,0,No matching subscription window
+PAY00076452,CUST005537,,2026-03-19,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00076453,CUST005537,,2026-04-18,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00076454,CUST005537,,2026-05-18,15.49,PayPal,Success,,0,No matching subscription window
+PAY00077405,CUST005604,,2026-05-01,6.99,UPI,Failed,Bank declined,0,No matching subscription window
+PAY00077406,CUST005604,,2026-05-31,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00078115,CUST005655,,2026-01-29,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00078116,CUST005655,,2026-02-28,22.99,Gift Card,Success,,0,No matching subscription window
+PAY00078567,CUST005688,,2026-02-22,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00078568,CUST005688,,2026-03-24,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00078569,CUST005688,,2026-04-23,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00078570,CUST005688,,2026-05-23,15.49,UPI,Success,,0,No matching subscription window
+PAY00079322,CUST005742,,2025-11-07,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00079323,CUST005742,,2025-12-07,15.49,UPI,Success,,0,No matching subscription window
+PAY00079324,CUST005742,,2026-01-06,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00079325,CUST005742,,2026-02-05,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00079899,CUST005782,,2026-05-08,6.99,PayPal,Success,,0,No matching subscription window
+PAY00079965,CUST005787,,2025-10-23,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00079966,CUST005787,,2025-11-22,15.49,Credit Card,Failed,Card expired,0,No matching subscription window
+PAY00079967,CUST005787,,2025-12-22,15.49,PayPal,Success,,0,No matching subscription window
+PAY00079968,CUST005787,,2026-01-21,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00079969,CUST005787,,2026-02-20,15.49,Debit Card,Failed,Card expired,0,No matching subscription window
+PAY00079970,CUST005787,,2026-03-22,15.49,UPI,Success,,0,No matching subscription window
+PAY00079971,CUST005787,,2026-04-21,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00079972,CUST005787,,2026-05-21,15.49,Debit Card,Failed,Card reported lost/stolen,0,No matching subscription window
+PAY00080345,CUST005815,,2025-12-31,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00080346,CUST005815,,2026-01-30,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00080384,CUST005818,,2026-04-16,15.49,Credit Card,Failed,Bank declined,0,No matching subscription window
+PAY00080385,CUST005818,,2026-05-16,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00080846,CUST005851,,2025-12-27,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00081214,CUST005878,,2026-03-16,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00081215,CUST005878,,2026-04-15,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00081216,CUST005878,,2026-05-15,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00081484,CUST005897,,2026-05-17,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00081598,CUST005905,,2026-02-26,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00081599,CUST005905,,2026-03-28,22.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00081600,CUST005905,,2026-04-27,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00081601,CUST005905,,2026-05-27,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00081913,CUST005927,,2026-02-20,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00081914,CUST005927,,2026-03-22,15.49,Credit Card,Failed,Incorrect card details,0,No matching subscription window
+PAY00081915,CUST005927,,2026-04-21,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00081916,CUST005927,,2026-05-21,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00082307,CUST005954,,2025-12-03,6.99,UPI,Success,,0,No matching subscription window
+PAY00082308,CUST005954,,2026-01-02,6.99,PayPal,Success,,0,No matching subscription window
+PAY00082457,CUST005965,,2026-05-07,15.49,PayPal,Success,,0,No matching subscription window
+PAY00083874,CUST006066,,2026-05-13,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00083879,CUST006067,,2026-05-01,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00083880,CUST006067,,2026-05-31,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00083946,CUST006072,,2026-03-02,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00083947,CUST006072,,2026-04-01,15.49,Debit Card,Failed,Bank declined,0,No matching subscription window
+PAY00083948,CUST006072,,2026-05-01,15.49,UPI,Success,,0,No matching subscription window
+PAY00083949,CUST006072,,2026-05-31,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00083977,CUST006074,,2026-01-23,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00083978,CUST006074,,2026-02-22,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00084265,CUST006094,,2026-01-19,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00084266,CUST006094,,2026-02-18,22.99,UPI,Success,,0,No matching subscription window
+PAY00084267,CUST006094,,2026-03-20,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00084303,CUST006097,,2025-12-31,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00084304,CUST006097,,2026-01-30,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00084305,CUST006097,,2026-03-01,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00084306,CUST006097,,2026-03-31,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00084307,CUST006097,,2026-04-30,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00084308,CUST006097,,2026-05-30,15.49,UPI,Success,,0,No matching subscription window
+PAY00084930,CUST006141,,2025-11-14,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00084931,CUST006141,,2025-12-14,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00084932,CUST006141,,2026-01-13,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00084933,CUST006141,,2026-02-12,15.49,Credit Card,Failed,Insufficient funds,0,No matching subscription window
+PAY00084934,CUST006141,,2026-03-14,15.49,UPI,Success,,0,No matching subscription window
+PAY00084935,CUST006141,,2026-04-13,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00084936,CUST006141,,2026-05-13,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00085864,CUST006206,,2026-05-20,6.99,PayPal,Failed,Insufficient funds,0,No matching subscription window
+PAY00086069,CUST006220,,2025-11-29,15.49,UPI,Success,,0,No matching subscription window
+PAY00086070,CUST006220,,2025-12-29,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00086071,CUST006220,,2026-01-28,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00086072,CUST006220,,2026-02-27,15.49,Mobile Wallet,Failed,Card expired,0,No matching subscription window
+PAY00086073,CUST006220,,2026-03-29,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00086304,CUST006238,,2026-04-03,6.99,UPI,Success,,0,No matching subscription window
+PAY00086305,CUST006238,,2026-05-03,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00086381,CUST006244,,2026-02-17,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00086382,CUST006244,,2026-03-19,6.99,UPI,Success,,0,No matching subscription window
+PAY00086635,CUST006263,,2026-03-15,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00086636,CUST006263,,2026-04-14,6.99,PayPal,Success,,0,No matching subscription window
+PAY00086637,CUST006263,,2026-05-14,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00086954,CUST006290,,2026-03-17,6.99,UPI,Success,,0,No matching subscription window
+PAY00086955,CUST006290,,2026-04-16,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00086956,CUST006290,,2026-05-16,6.99,PayPal,Success,,0,No matching subscription window
+PAY00086989,CUST006293,,2025-11-04,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00086990,CUST006293,,2025-12-04,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00086991,CUST006293,,2026-01-03,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00086992,CUST006293,,2026-02-02,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00086993,CUST006293,,2026-03-04,15.49,PayPal,Failed,Insufficient funds,0,No matching subscription window
+PAY00086994,CUST006293,,2026-04-03,15.49,PayPal,Success,,0,No matching subscription window
+PAY00086995,CUST006293,,2026-05-03,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00087949,CUST006362,,2025-12-03,6.99,PayPal,Success,,0,No matching subscription window
+PAY00087950,CUST006362,,2026-01-02,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00087951,CUST006362,,2026-02-01,6.99,UPI,Success,,0,No matching subscription window
+PAY00087952,CUST006362,,2026-03-03,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00087953,CUST006362,,2026-04-02,6.99,UPI,Success,,0,No matching subscription window
+PAY00087954,CUST006362,,2026-05-02,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00088201,CUST006381,,2026-04-03,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00088202,CUST006381,,2026-05-03,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00088313,CUST006390,,2026-02-28,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00088314,CUST006390,,2026-03-30,6.99,Credit Card,Failed,Incorrect card details,0,No matching subscription window
+PAY00088315,CUST006390,,2026-04-29,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00088316,CUST006390,,2026-05-29,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00088601,CUST006410,,2026-05-04,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00088747,CUST006421,,2026-01-07,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00088748,CUST006421,,2026-02-06,15.49,UPI,Success,,0,No matching subscription window
+PAY00089955,CUST006507,,2026-03-29,22.99,Gift Card,Success,,0,No matching subscription window
+PAY00089956,CUST006507,,2026-04-28,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00089957,CUST006507,,2026-05-28,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00090425,CUST006541,,2026-04-28,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00090426,CUST006541,,2026-05-28,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00090599,CUST006553,,2026-05-19,6.99,PayPal,Failed,International transaction blocked,0,No matching subscription window
+PAY00090992,CUST006582,,2025-11-10,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00090993,CUST006582,,2025-12-10,6.99,Net Banking,Failed,Card reported lost/stolen,0,No matching subscription window
+PAY00090994,CUST006582,,2026-01-09,6.99,PayPal,Success,,0,No matching subscription window
+PAY00090995,CUST006582,,2026-02-08,6.99,PayPal,Success,,0,No matching subscription window
+PAY00090996,CUST006582,,2026-03-10,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00091359,CUST006608,,2026-03-03,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00091360,CUST006608,,2026-04-02,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00091361,CUST006608,,2026-05-02,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00091473,CUST006616,,2026-04-23,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00091474,CUST006616,,2026-05-23,22.99,UPI,Success,,0,No matching subscription window
+PAY00091742,CUST006636,,2026-05-02,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00091906,CUST006648,,2026-03-09,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00091907,CUST006648,,2026-04-08,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00091908,CUST006648,,2026-05-08,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00092474,CUST006689,,2026-03-01,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00092475,CUST006689,,2026-03-31,6.99,UPI,Success,,0,No matching subscription window
+PAY00092476,CUST006689,,2026-04-30,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00092477,CUST006689,,2026-05-30,6.99,Credit Card,Failed,Insufficient funds,0,No matching subscription window
+PAY00092864,CUST006716,,2026-02-27,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00092865,CUST006716,,2026-03-29,15.49,UPI,Success,,0,No matching subscription window
+PAY00092866,CUST006716,,2026-04-28,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00092867,CUST006716,,2026-05-28,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00093224,CUST006743,,2026-02-06,15.49,PayPal,Success,,0,No matching subscription window
+PAY00093225,CUST006743,,2026-03-08,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00093226,CUST006743,,2026-04-07,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00093227,CUST006743,,2026-05-07,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00093574,CUST006768,,2026-02-25,15.49,PayPal,Success,,0,No matching subscription window
+PAY00093575,CUST006768,,2026-03-27,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00093576,CUST006768,,2026-04-26,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00093577,CUST006768,,2026-05-26,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00093716,CUST006778,,2026-04-28,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00093717,CUST006778,,2026-05-28,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00094295,CUST006818,,2026-02-09,6.99,UPI,Success,,0,No matching subscription window
+PAY00094296,CUST006818,,2026-03-11,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00094505,CUST006832,,2025-11-10,22.99,UPI,Failed,International transaction blocked,0,No matching subscription window
+PAY00094506,CUST006832,,2025-12-10,22.99,UPI,Success,,0,No matching subscription window
+PAY00094576,CUST006837,,2025-10-29,22.99,PayPal,Success,,0,No matching subscription window
+PAY00094577,CUST006837,,2025-11-28,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00094578,CUST006837,,2025-12-28,22.99,PayPal,Success,,0,No matching subscription window
+PAY00094579,CUST006837,,2026-01-27,22.99,UPI,Success,,0,No matching subscription window
+PAY00094580,CUST006837,,2026-02-26,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00094773,CUST006851,,2025-12-05,6.99,PayPal,Success,,0,No matching subscription window
+PAY00094774,CUST006851,,2026-01-04,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00094775,CUST006851,,2026-02-03,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00094776,CUST006851,,2026-03-05,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00094777,CUST006851,,2026-04-04,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00094778,CUST006851,,2026-05-04,6.99,UPI,Success,,0,No matching subscription window
+PAY00095196,CUST006880,,2026-01-07,15.49,PayPal,Success,,0,No matching subscription window
+PAY00095197,CUST006880,,2026-02-06,15.49,UPI,Success,,0,No matching subscription window
+PAY00095198,CUST006880,,2026-03-08,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00095199,CUST006880,,2026-04-07,15.49,UPI,Success,,0,No matching subscription window
+PAY00095200,CUST006880,,2026-05-07,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00095259,CUST006884,,2025-11-27,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00095260,CUST006884,,2025-12-27,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00095301,CUST006889,,2025-12-29,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00095302,CUST006889,,2026-01-28,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00095303,CUST006889,,2026-02-27,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00095304,CUST006889,,2026-03-29,15.49,PayPal,Success,,0,No matching subscription window
+PAY00095305,CUST006889,,2026-04-28,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00095306,CUST006889,,2026-05-28,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00095620,CUST006910,,2026-02-18,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00095621,CUST006910,,2026-03-20,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00095735,CUST006919,,2025-11-24,6.99,UPI,Success,,0,No matching subscription window
+PAY00095736,CUST006919,,2025-12-24,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00095737,CUST006919,,2026-01-23,6.99,PayPal,Success,,0,No matching subscription window
+PAY00095738,CUST006919,,2026-02-22,6.99,PayPal,Success,,0,No matching subscription window
+PAY00095739,CUST006919,,2026-03-24,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00095740,CUST006919,,2026-04-23,6.99,Credit Card,Failed,International transaction blocked,0,No matching subscription window
+PAY00095741,CUST006919,,2026-05-23,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00095950,CUST006934,,2025-12-17,6.99,Gift Card,Failed,Card reported lost/stolen,0,No matching subscription window
+PAY00095951,CUST006934,,2026-01-16,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00095952,CUST006934,,2026-02-15,6.99,PayPal,Success,,0,No matching subscription window
+PAY00096172,CUST006949,,2026-01-23,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00096173,CUST006949,,2026-02-22,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00096174,CUST006949,,2026-03-24,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00096175,CUST006949,,2026-04-23,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00096176,CUST006949,,2026-05-23,15.49,PayPal,Success,,0,No matching subscription window
+PAY00096442,CUST006967,,2026-04-25,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00096443,CUST006967,,2026-05-25,15.49,PayPal,Success,,0,No matching subscription window
+PAY00096759,CUST006990,,2026-03-05,15.49,PayPal,Success,,0,No matching subscription window
+PAY00096760,CUST006990,,2026-04-04,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00096763,CUST006991,,2026-04-26,6.99,UPI,Success,,0,No matching subscription window
+PAY00096764,CUST006991,,2026-05-26,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00096942,CUST007004,,2026-02-11,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00096943,CUST007004,,2026-03-13,15.49,UPI,Success,,0,No matching subscription window
+PAY00096944,CUST007004,,2026-04-12,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00096945,CUST007004,,2026-05-12,15.49,PayPal,Success,,0,No matching subscription window
+PAY00097068,CUST007013,,2026-04-25,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00097069,CUST007013,,2026-05-25,6.99,PayPal,Success,,0,No matching subscription window
+PAY00097487,CUST007044,,2025-11-27,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00097488,CUST007044,,2025-12-27,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00097489,CUST007044,,2026-01-26,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00097504,CUST007045,,2026-02-10,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00097602,CUST007052,,2025-10-26,6.99,PayPal,Success,,0,No matching subscription window
+PAY00097603,CUST007052,,2025-11-25,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00097604,CUST007052,,2025-12-25,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00097605,CUST007052,,2026-01-24,6.99,UPI,Success,,0,No matching subscription window
+PAY00097606,CUST007052,,2026-02-23,6.99,PayPal,Failed,Bank declined,0,No matching subscription window
+PAY00097607,CUST007052,,2026-03-25,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00097608,CUST007052,,2026-04-24,6.99,UPI,Success,,0,No matching subscription window
+PAY00097609,CUST007052,,2026-05-24,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00097829,CUST007068,,2026-03-18,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00097830,CUST007068,,2026-04-17,15.49,PayPal,Success,,0,No matching subscription window
+PAY00097831,CUST007068,,2026-05-17,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00098445,CUST007112,,2026-02-14,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00098446,CUST007112,,2026-03-16,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00098447,CUST007112,,2026-04-15,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00098448,CUST007112,,2026-05-15,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00100010,CUST007226,,2026-02-16,6.99,UPI,Success,,0,No matching subscription window
+PAY00100011,CUST007226,,2026-03-18,6.99,PayPal,Success,,0,No matching subscription window
+PAY00100012,CUST007226,,2026-04-17,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00100013,CUST007226,,2026-05-17,6.99,UPI,Success,,0,No matching subscription window
+PAY00101363,CUST007322,,2026-03-31,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00101364,CUST007322,,2026-04-30,6.99,Net Banking,Failed,Card expired,0,No matching subscription window
+PAY00101365,CUST007322,,2026-05-30,6.99,UPI,Failed,International transaction blocked,0,No matching subscription window
+PAY00101662,CUST007344,,2026-05-05,52.67,Credit Card,Success,,0,No matching subscription window
+PAY00102183,CUST007380,,2026-04-02,6.99,UPI,Success,,0,No matching subscription window
+PAY00102184,CUST007380,,2026-05-02,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00102550,CUST007406,,2025-10-25,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00102551,CUST007406,,2025-11-24,15.49,PayPal,Success,,0,No matching subscription window
+PAY00102552,CUST007406,,2025-12-24,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00103363,CUST007463,,2025-12-23,15.49,UPI,Success,,0,No matching subscription window
+PAY00103364,CUST007463,,2026-01-22,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00103365,CUST007463,,2026-02-21,15.49,UPI,Success,,0,No matching subscription window
+PAY00103366,CUST007463,,2026-03-23,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00103367,CUST007463,,2026-04-22,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00103368,CUST007463,,2026-05-22,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00103547,CUST007476,,2026-05-11,15.49,PayPal,Success,,0,No matching subscription window
+PAY00103673,CUST007485,,2026-05-15,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00103954,CUST007505,,2026-04-09,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00105038,CUST007583,,2026-04-09,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00105039,CUST007583,,2026-05-09,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00105128,CUST007590,,2026-03-11,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00105129,CUST007590,,2026-04-10,15.49,UPI,Success,,0,No matching subscription window
+PAY00105130,CUST007590,,2026-05-10,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00105369,CUST007608,,2026-02-03,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00105370,CUST007608,,2026-03-05,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00105371,CUST007608,,2026-04-04,15.49,Gift Card,Success,,0,No matching subscription window
+PAY00105372,CUST007608,,2026-05-04,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00105435,CUST007613,,2026-04-24,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00105436,CUST007613,,2026-05-24,6.99,PayPal,Success,,0,No matching subscription window
+PAY00105784,CUST007637,,2026-05-27,15.49,PayPal,Success,,0,No matching subscription window
+PAY00105908,CUST007646,,2026-05-23,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00105919,CUST007647,,2026-05-14,15.49,UPI,Success,,0,No matching subscription window
+PAY00106609,CUST007695,,2026-03-30,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00106610,CUST007695,,2026-04-29,6.99,Mobile Wallet,Success,,0,No matching subscription window
+PAY00106611,CUST007695,,2026-05-29,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00106625,CUST007696,,2026-01-17,22.99,UPI,Success,,0,No matching subscription window
+PAY00106626,CUST007696,,2026-02-16,22.99,UPI,Success,,0,No matching subscription window
+PAY00106638,CUST007698,,2026-02-22,15.49,Debit Card,Failed,Bank declined,0,No matching subscription window
+PAY00106639,CUST007698,,2026-03-24,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00106640,CUST007698,,2026-04-23,15.49,Mobile Wallet,Success,,0,No matching subscription window
+PAY00106641,CUST007698,,2026-05-23,15.49,Credit Card,Failed,International transaction blocked,0,No matching subscription window
+PAY00106875,CUST007715,,2026-01-18,15.49,Credit Card,Success,,0,No matching subscription window
+PAY00106876,CUST007715,,2026-02-17,15.49,UPI,Failed,Incorrect card details,0,No matching subscription window
+PAY00106904,CUST007717,,2025-12-01,15.49,PayPal,Success,,0,No matching subscription window
+PAY00106905,CUST007717,,2025-12-31,15.49,PayPal,Success,,0,No matching subscription window
+PAY00106906,CUST007717,,2026-01-30,15.49,Net Banking,Success,,0,No matching subscription window
+PAY00107422,CUST007756,,2026-05-04,15.49,PayPal,Success,,0,No matching subscription window
+PAY00107956,CUST007795,,2026-05-11,76.89,Credit Card,Success,,0,No matching subscription window
+PAY00108097,CUST007806,,2026-03-28,6.99,UPI,Success,,0,No matching subscription window
+PAY00108098,CUST007806,,2026-04-27,6.99,PayPal,Success,,0,No matching subscription window
+PAY00108099,CUST007806,,2026-05-27,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00108356,CUST007824,,2026-03-15,22.99,UPI,Success,,0,No matching subscription window
+PAY00108357,CUST007824,,2026-04-14,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00108358,CUST007824,,2026-05-14,22.99,UPI,Success,,0,No matching subscription window
+PAY00108401,CUST007828,,2025-11-26,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00108402,CUST007828,,2025-12-26,22.99,UPI,Success,,0,No matching subscription window
+PAY00108403,CUST007828,,2026-01-25,22.99,UPI,Success,,0,No matching subscription window
+PAY00108404,CUST007828,,2026-02-24,22.99,Debit Card,Success,,0,No matching subscription window
+PAY00108405,CUST007828,,2026-03-26,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00108406,CUST007828,,2026-04-25,22.99,Credit Card,Success,,0,No matching subscription window
+PAY00108603,CUST007843,,2026-04-26,6.99,Gift Card,Success,,0,No matching subscription window
+PAY00108604,CUST007843,,2026-05-26,6.99,Debit Card,Success,,0,No matching subscription window
+PAY00109164,CUST007887,,2026-05-27,22.99,Net Banking,Success,,0,No matching subscription window
+PAY00109186,CUST007889,,2026-03-22,6.99,Net Banking,Success,,0,No matching subscription window
+PAY00109187,CUST007889,,2026-04-21,6.99,Credit Card,Success,,0,No matching subscription window
+PAY00109188,CUST007889,,2026-05-21,6.99,UPI,Success,,0,No matching subscription window
+PAY00109860,CUST007936,,2026-05-25,15.49,Debit Card,Success,,0,No matching subscription window
+PAY00109958,CUST007943,,2026-05-09,22.99,UPI,Failed,Insufficient funds,0,No matching subscription window

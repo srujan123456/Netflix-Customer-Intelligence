@@ -1,0 +1,10 @@
+column,issue_identified,treatment_applied,records_affected
+ticket_id,No duplicate or missing ticket IDs,No changes required,0
+ticket_date,61 missing or malformed dates,Converted malformed dates to NaT; preserved missing values,61
+resolution_time_hours,1528 missing values for Pending and Escalated tickets,Preserved structural missing values; no imputation,1528
+customer_satisfaction_score,1528 missing values for Pending and Escalated tickets,Preserved structural missing values; no imputation,1528
+resolution_time_hours,209 potential IQR outliers,Retained original values; no evidence of invalid records,209
+ticket_description,32 repeated description templates,Retained; all descriptions map consistently to one category and subcategory,0
+customer_id,Checked customer references,All customer references valid,0
+text_columns,Checked empty strings and whitespace,No changes required,0
+ticket_description,Checked description-to-category consistency,All 32 descriptions have consistent category and subcategory mappings,0

@@ -1,0 +1,6 @@
+check_or_issue,column,records_affected,action_taken,reason
+Missing age values,age,337,Median imputation,Filled missing ages using the calculated median of 32.
+Missing country values,country,409,379 recovered using city mapping; 30 filled with Unknown,City mappings were unique and supported by multiple existing customer records.
+Missing city values,city,483,Filled with Unknown,Actual city information could not be reliably recovered.
+Missing preferred language,preferred_language,251,Filled with Unknown,Language preference cannot reliably be inferred from location.
+State or region missing by design,state_or_region,8000,Retained missing values; converted to nullable string dtype,Dataset Dictionary specifies that this column was shipped blank for all rows.

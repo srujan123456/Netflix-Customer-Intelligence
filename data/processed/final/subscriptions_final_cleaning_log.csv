@@ -1,0 +1,5 @@
+column,issue_identified,treatment_applied,records_affected
+subscription_end_date,Missing dates for active subscriptions and 42 cancelled records,Preserved meaningful missing values; flagged anomalies,6051
+cancellation_date,Missing dates for non-cancelled subscriptions and 42 date anomalies,Preserved original dates without modification,6884
+cancellation_reason,Missing reasons for non-cancelled subscriptions,Preserved meaningful missing values,6884
+date_anomaly_flag,42 chronological inconsistencies identified,Added Boolean anomaly flag,42

@@ -1,0 +1,11 @@
+column,issue,action,status
+subscription_id,Duplicate subscription IDs,Checked for duplicates; none were found,Completed
+customer_id,Referential integrity,Verified all customer IDs exist in customers_clean,Completed
+plan_id,Referential integrity,Verified all plan IDs exist in subscription_plans,Completed
+"subscription_start_date, subscription_end_date, cancellation_date",Dates stored as text,Converted date columns to datetime,Completed
+subscription_end_date,Missing end dates and cancellation-date inconsistencies,"Filled end dates from valid cancellation dates for 1,949 cancelled subscriptions; retained missing end dates for 42 inconsistent cancellation records; preserved blank end dates for Active subscriptions.",Provisional correction documented; 42 records remain unresolved.
+cancellation_date,42 cancellation dates occur before subscription start dates,Converted to datetime; flagged 42 cancellation dates earlier than subscription start dates and preserved their original values.,Validation completed; 42 records require investigation.
+cancellation_reason,Missing values depend on subscription status,Verified reasons are present for Cancelled records and missing for Active and Plan Changed records,Completed
+monthly_price,570 records differ from the current plan catalog price,Preserved prices because the dictionary defines this field as the price at the time of the subscription segment,Reviewed; no automatic price changes made
+auto_renew,Boolean value validation,Verified True and False values; no changes needed,Completed
+entire dataset,Exact duplicate rows,Checked for exact duplicates; none were found,Completed

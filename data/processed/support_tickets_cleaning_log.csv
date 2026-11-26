@@ -1,0 +1,10 @@
+check_or_issue,column,records_affected,action_taken,reason
+Invalid ticket dates,ticket_date,61,Converted invalid dates to NaT,Malformed dates cannot be interpreted as valid dates.
+Missing resolution times,resolution_time_hours,1528,Retained missing values,Missing values correspond to Pending and Escalated tickets.
+Missing satisfaction scores,customer_satisfaction_score,1528,Retained missing values,Missing values correspond to Pending and Escalated tickets.
+Long resolution times,resolution_time_hours,209,Retained for review,"Values above 54.7 hours are potential outliers, not confirmed errors."
+Duplicate ticket IDs,ticket_id,0,No change,Checked for duplicate ticket identifiers.
+Exact duplicate rows,All columns,0,No change,Checked for exact duplicate records.
+Invalid customer references,customer_id,0,No change,Checked customer IDs against customers_clean.
+Blank ticket descriptions,ticket_description,0,No change,Checked for empty or whitespace-only descriptions.
+Issue category and subcategory consistency,"issue_category, issue_subcategory",0,No changes made,Visual review found no obvious category/subcategory mismatches.

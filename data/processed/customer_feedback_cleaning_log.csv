@@ -1,0 +1,10 @@
+check_or_issue,column,records_affected,action_taken,reason
+Missing values,All columns,0,No imputation required,No missing values were found in the dataset.
+Invalid feedback dates,feedback_date,0,Converted to datetime,All feedback dates were successfully converted.
+Invalid ratings,rating,0,No changes required,All ratings are within the valid range of 1 to 5.
+Duplicate feedback IDs,feedback_id,0,No changes required,All feedback IDs are unique.
+Exact duplicate rows,All columns,0,No changes required,No exact duplicate records were found.
+Invalid customer references,customer_id,0,No changes required,All customer IDs exist in customers_clean.
+Blank feedback text,feedback_text,0,No changes required,No empty or whitespace-only reviews were found.
+Sentiment label validation,sentiment_label,263,Created validated_sentiment_label; preserved original labels,Reviewed all 13 unique feedback templates and assigned sentiment based on their text.
+Unmapped feedback templates,feedback_text,0,No changes required,All feedback templates were covered by the sentiment mapping.

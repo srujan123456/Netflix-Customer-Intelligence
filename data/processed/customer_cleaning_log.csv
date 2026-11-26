@@ -1,0 +1,8 @@
+column,issue,action,status
+customer_id,48 exact duplicate rows,Removed exact duplicate rows,Completed
+country,Inconsistent labels and 409 missing values,Standardized country labels; preserved missing values in the master dataset; use Unknown in analysis copies when appropriate,Standardization completed; missing-value strategy documented
+age,Implausible outliers and missing values,Replaced age == 2 and age > 100 with missing values; preserve missing values in the master dataset; use median imputation in the model pipeline when needed,Outlier handling completed; model imputation deferred to model pipeline
+registration_date,Date stored as text,Converted to datetime,Completed
+state_or_region,"All 8,000 values missing by design",Preserved the intentionally blank column for database schema compatibility,Documented; column preserved
+city,483 missing values,Preserved missing values in the master dataset; use Unknown in analysis copies when appropriate,Strategy documented; downstream handling pending
+preferred_language,251 missing values,Preserved missing values in the master dataset; use Unknown in analysis copies when appropriate,Strategy documented; downstream handling pending

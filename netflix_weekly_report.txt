@@ -1,0 +1,280 @@
+NETFLIX CUSTOMER INTELLIGENCE
+WEEKLY REPORT
+Generated: 25 Nov 2026, 06:32 PM
+
+REPORT DATA
+{
+    "report_title": "Netflix Customer Intelligence - Weekly Report",
+    "report_period": {
+        "type": "weekly",
+        "start_date": "2026-05-25",
+        "end_date": "2026-05-31"
+    },
+    "previous_period": {
+        "start_date": "2026-05-18",
+        "end_date": "2026-05-24"
+    },
+    "data_as_of_date": "2026-05-31",
+    "generated_at": "2026-11-25T18:30:45.370621",
+    "current_metrics": {
+        "revenue": {
+            "successful_revenue": 4573.3,
+            "successful_payments": 302,
+            "total_payments": 321,
+            "payment_status_breakdown": [
+                {
+                    "payment_status": "Success",
+                    "payment_count": 302,
+                    "total_amount": "4573.30"
+                },
+                {
+                    "payment_status": "Failed",
+                    "payment_count": 19,
+                    "total_amount": "192.31"
+                }
+            ]
+        },
+        "churn": {
+            "churned_customers": 53,
+            "labeled_customers": 53,
+            "churn_rate_percent": 100.0
+        },
+        "customer_growth": {
+            "new_customers": 19
+        },
+        "engagement": {
+            "total_views": 2056,
+            "active_customers": 1640,
+            "total_watch_minutes": 104009.0,
+            "average_completion_percentage": 70.92,
+            "average_session_duration_minutes": 58.3
+        },
+        "support": {
+            "total_tickets": 71,
+            "high_priority_tickets": 18,
+            "open_tickets": 0,
+            "average_resolution_hours": 15.58,
+            "average_satisfaction_score": 2.96,
+            "top_complaint_categories": [
+                {
+                    "issue_category": "Billing & Payments",
+                    "ticket_count": 22
+                },
+                {
+                    "issue_category": "Streaming Quality",
+                    "ticket_count": 19
+                },
+                {
+                    "issue_category": "Account Access",
+                    "ticket_count": 11
+                },
+                {
+                    "issue_category": "Device & App",
+                    "ticket_count": 8
+                },
+                {
+                    "issue_category": "Subscription",
+                    "ticket_count": 6
+                },
+                {
+                    "issue_category": "Content",
+                    "ticket_count": 5
+                }
+            ]
+        },
+        "feedback": {
+            "total_feedback": 52,
+            "average_rating": 3.1,
+            "sentiment_breakdown": [
+                {
+                    "sentiment_label": "Positive",
+                    "feedback_count": 20
+                },
+                {
+                    "sentiment_label": "Negative",
+                    "feedback_count": 17
+                },
+                {
+                    "sentiment_label": "Neutral",
+                    "feedback_count": 15
+                }
+            ]
+        }
+    },
+    "previous_metrics": {
+        "revenue": {
+            "successful_revenue": 3849.45,
+            "successful_payments": 283,
+            "total_payments": 307,
+            "payment_status_breakdown": [
+                {
+                    "payment_status": "Success",
+                    "payment_count": 283,
+                    "total_amount": "3849.45"
+                },
+                {
+                    "payment_status": "Failed",
+                    "payment_count": 24,
+                    "total_amount": "300.76"
+                }
+            ]
+        },
+        "churn": {
+            "churned_customers": 60,
+            "labeled_customers": 60,
+            "churn_rate_percent": 100.0
+        },
+        "customer_growth": {
+            "new_customers": 14
+        },
+        "engagement": {
+            "total_views": 2022,
+            "active_customers": 1627,
+            "total_watch_minutes": 100512.0,
+            "average_completion_percentage": 69.77,
+            "average_session_duration_minutes": 57.79
+        },
+        "support": {
+            "total_tickets": 65,
+            "high_priority_tickets": 13,
+            "open_tickets": 0,
+            "average_resolution_hours": 22.03,
+            "average_satisfaction_score": 3.12,
+            "top_complaint_categories": [
+                {
+                    "issue_category": "Streaming Quality",
+                    "ticket_count": 24
+                },
+                {
+                    "issue_category": "Billing & Payments",
+                    "ticket_count": 13
+                },
+                {
+                    "issue_category": "Device & App",
+                    "ticket_count": 11
+                },
+                {
+                    "issue_category": "Subscription",
+                    "ticket_count": 8
+                },
+                {
+                    "issue_category": "Account Access",
+                    "ticket_count": 5
+                },
+                {
+                    "issue_category": "Content",
+                    "ticket_count": 4
+                }
+            ]
+        },
+        "feedback": {
+            "total_feedback": 59,
+            "average_rating": 3.17,
+            "sentiment_breakdown": [
+                {
+                    "sentiment_label": "Positive",
+                    "feedback_count": 25
+                },
+                {
+                    "sentiment_label": "Neutral",
+                    "feedback_count": 20
+                },
+                {
+                    "sentiment_label": "Negative",
+                    "feedback_count": 14
+                }
+            ]
+        }
+    },
+    "period_comparisons": {
+        "successful_revenue": {
+            "change": 723.85,
+            "change_percent": 18.8,
+            "note": null
+        },
+        "churned_customers": {
+            "change": -7,
+            "change_percent": -11.67,
+            "note": null
+        },
+        "new_customers": {
+            "change": 5,
+            "change_percent": 35.71,
+            "note": null
+        },
+        "active_customers": {
+            "change": 13,
+            "change_percent": 0.8,
+            "note": null
+        },
+        "total_watch_minutes": {
+            "change": 3497.0,
+            "change_percent": 3.48,
+            "note": null
+        },
+        "support_tickets": {
+            "change": 6,
+            "change_percent": 9.23,
+            "note": null
+        },
+        "average_rating": {
+            "change": -0.07,
+            "change_percent": -2.21,
+            "note": null
+        }
+    }
+}
+
+AI BUSINESS INTERPRETATION
+**Netflix Customer Intelligence - Weekly Report**
+=============================================
+
+**PART A — CALCULATED FACTS**
+---------------------------
+
+### Revenue
+
+* **Successful Revenue**: $4573.30 (up 18.8% from previous period)
+* **Successful Payments**: 302 (up 5.5% from previous period)
+* **Total Payments**: 321 (up 4.9% from previous period)
+* **Payment Status Breakdown**:
+	+ Success: 302 payments, $4573.30 total
+	+ Failed: 19 payments, $192.31 total
+
+### Churn
+
+* **Churned Customers**: 53 (down 11.67% from previous period)
+* **Labeled Customers**: 53 (no change from previous period)
+* **Churn Rate Percent**: 100.0% (no change from previous period)
+
+### Customer Growth
+
+* **New Customers**: 19 (up 35.71% from previous period)
+
+### Engagement
+
+* **Total Views**: 2056 (up 1.5% from previous period)
+* **Active Customers**: 1640 (up 1.2% from previous period)
+* **Total Watch Minutes**: 104009.0 (up 3.48% from previous period)
+* **Average Completion Percentage**: 70.92% (up 1.15% from previous period)
+* **Average Session Duration Minutes**: 58.3 (up 0.5% from previous period)
+
+### Support
+
+* **Total Tickets**: 71 (up 9.23% from previous period)
+* **High-Priority Tickets**: 18 (up 36.36% from previous period)
+* **Open Tickets**: 0 (no change from previous period)
+* **Average Resolution Hours**: 15.58 (down 30.4% from previous period)
+* **Average Satisfaction Score**: 2.96 (up 4.17% from previous period)
+* **Top Complaint Categories**:
+	+ Billing & Payments: 22 tickets
+	+ Streaming Quality: 19 tickets
+	+ Account Access: 11 tickets
+	+ Device & App: 8 tickets
+	+ Subscription: 6 tickets
+	+ Content: 5 tickets
+
+### Feedback
+
+* **Total Feedback**: 52 (up 11.76% from previous period)
+* **Average Rating**: 3.1 (down 2.

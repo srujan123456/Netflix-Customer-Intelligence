@@ -1,0 +1,9 @@
+column,issue_identified,treatment_applied,records_affected
+feedback_id,No missing values or duplicate IDs,No changes required,0
+customer_id,No invalid customer references,Validated against customers_final,0
+feedback_date,Date stored as string,Converted to datetime; no invalid dates found,5046
+rating,Ratings validated against expected range 1–5,All ratings retained without modification,0
+feedback_text,13 repeated feedback templates; no blank or whitespace-only text,Preserved original text for RAG; repeated templates retained,0
+sentiment_label,Original labels intentionally mislabeled in some records,Preserved original labels for auditing; not treated as ground truth,263
+validated_sentiment_label,263 original sentiment labels required correction,Validated using feedback text and rating; all 13 templates consistent,263
+sentiment_corrected,Correction tracking required,Retained Boolean audit flag; 263 True and 4783 False,263

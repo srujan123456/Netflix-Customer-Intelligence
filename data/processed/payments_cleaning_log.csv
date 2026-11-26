@@ -1,0 +1,9 @@
+column,issue,action,reason,status
+payment_id,Duplicate payment IDs,Checked for duplicate IDs,Payment IDs must uniquely identify transactions,Verified
+customer_id,Invalid customer references,Validated against customers_clean,Every payment must reference a known customer,Verified
+payment_date,Date stored as text,Converted to datetime,Enables reliable date filtering and reconciliation,Completed
+subscription_id,Initially blank for all payments,Reconciled against customer subscription windows; used a documented transition-date rule for 9 boundary cases,Assign IDs only when the available subscription history supports a match,109690 matched; 1045 unresolved
+subscription dates,Inconsistent cancellation dates affect some customer histories,Preserved the original dates and flagged unresolved cases,The correct dates cannot be established from the available records,Requires review
+amount,463 payments above the IQR upper fence of 28.24,Investigated frequency and linked subscription prices; retained original amounts,An IQR outlier is not automatically an error,Flagged for review
+amount,250 zero-amount payments,"Checked payment status, method, and subscription-price availability; retained original amounts",The correct replacement amounts cannot be established,Flagged for review
+failed_payment_reason,Missing or populated failure reasons,Verified consistency with payment status,Failed payments must have a reason; successful payments must not,Verified

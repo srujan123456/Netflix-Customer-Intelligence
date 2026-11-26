@@ -1,0 +1,9 @@
+column,issue,action,status
+content_type,Stand-Up Special differs from the documented Stand-Up category,Standardized Stand-Up Special to Stand-Up for 26 records,Completed
+all columns,Missing-value validation,Checked all nine columns; no missing values found,Validation completed
+all columns,Exact duplicate rows,Checked for exact duplicate rows; none found,Validation completed
+content_id,Potential duplicate identifiers,Checked identifier uniqueness; no duplicates found,Validation completed
+release_year,Potentially unusual release years,Inspected range of 1998–2026; retained values unchanged,Inspected and retained
+duration_minutes,Potentially unusual content durations,Inspected range of 20–166 minutes; retained values unchanged,Inspected and retained
+text columns,Leading/trailing whitespace and empty strings,Checked all seven text columns; no issues found,Validation completed
+"genre, content_language, production_country, maturity_rating",Category and value consistency,Inspected distinct values; retained values unchanged,Inspected and retained

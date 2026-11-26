@@ -1,0 +1,12 @@
+column,issue_identified,treatment_applied,records_affected
+customer_id,"Checked for missing values, duplicate IDs and invalid customer references.",No changes required. All 8000 customer IDs are unique and match customers_final.,0
+churned,Checked for missing values and Boolean consistency.,No changes required. Retained all original Boolean values.,0
+churn_date,6009 expected missing values for non-churned customers. Original date values were stored as strings.,Converted churn_date to datetime. Retained expected missing values. No invalid populated dates or dates before customer registration were found.,1991
+churn_reason,6009 expected missing values for non-churned customers. Data dictionary states that churn reasons are weighted by behaviour but are not fully deterministic.,Retained original values and expected missing values. Validated all 11 categories. No whitespace issues found. Documented reasons as behavioural indicators rather than confirmed explanations.,0
+duplicate_records,Checked exact duplicate rows and duplicate customer IDs.,No duplicate records or customer IDs found. No records removed.,0
+missing_values,6009 missing values in churn_date and churn_reason.,Confirmed that all missing values belong to non-churned customers. Retained structural missing values without imputation.,6009
+churn_consistency,"Checked consistency between churn status, churn dates and churn reasons.",All 6009 non-churned records have missing dates and reasons. All 1991 churned records have both dates and reasons.,0
+customer_reference,Checked customer IDs against customers_final.,All 8000 customer references are valid. No invalid references found.,0
+date_validation,Checked churn dates against customer registration dates.,No churn dates earlier than customer registration dates were found.,0
+churn_generation_method,"Data dictionary states that churn is generated using a probabilistic logistic function based on subscription plan, engagement trajectory, recent watch minutes, payment failure rate, support ticket volume, average CSAT, tenure and auto-renew status, with random noise.",Preserved all original churn labels. Documented that no single feature perfectly predicts churn.,0
+churn_rate,Data dictionary specifies an overall churn rate of approximately 25%.,"Validated the observed churn rate of 24.8875%, consistent with the documented distribution.",0

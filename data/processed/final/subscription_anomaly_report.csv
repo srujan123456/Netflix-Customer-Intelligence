@@ -1,0 +1,43 @@
+subscription_id,customer_id,plan_id,subscription_start_date,subscription_end_date,subscription_status,auto_renew,cancellation_date,cancellation_reason,monthly_price,end_date_missing,cancellation_date_missing,cancellation_reason_missing,days_before_next_start,date_anomaly_flag,anomaly_description
+SUB0000126,CUST000113,PLAN01,2026-04-18,,Cancelled,True,2025-12-09,Poor customer service experience,6.99,True,False,False,130,True,Cancellation date occurs before the current subscription start date
+SUB0000158,CUST000143,PLAN02,2026-03-02,,Cancelled,False,2025-12-27,Not enough content,15.49,True,False,False,65,True,Cancellation date occurs before the current subscription start date
+SUB0000302,CUST000268,PLAN02,2026-03-02,,Cancelled,False,2026-01-29,Found alternative platform,15.49,True,False,False,32,True,Cancellation date occurs before the current subscription start date
+SUB0000332,CUST000296,PLAN02,2026-01-26,,Cancelled,True,2025-12-07,Found alternative platform,15.49,True,False,False,50,True,Cancellation date occurs before the current subscription start date
+SUB0000540,CUST000491,PLAN01,2026-06-28,,Cancelled,False,2025-12-22,Poor customer service experience,6.99,True,False,False,188,True,Cancellation date occurs before the current subscription start date
+SUB0000736,CUST000670,PLAN01,2026-01-03,,Cancelled,True,2025-12-02,Too expensive,6.99,True,False,False,32,True,Cancellation date occurs before the current subscription start date
+SUB0000941,CUST000859,PLAN01,2026-01-26,,Cancelled,True,2025-10-08,Content quality decline,6.99,True,False,False,110,True,Cancellation date occurs before the current subscription start date
+SUB0001025,CUST000935,PLAN02,2026-02-24,,Cancelled,True,2025-11-23,Content quality decline,15.49,True,False,False,93,True,Cancellation date occurs before the current subscription start date
+SUB0001283,CUST001173,PLAN03,2026-04-09,,Cancelled,True,2025-11-17,Poor customer service experience,22.99,True,False,False,143,True,Cancellation date occurs before the current subscription start date
+SUB0001444,CUST001319,PLAN02,2026-03-16,,Cancelled,True,2025-12-04,Found alternative platform,15.49,True,False,False,102,True,Cancellation date occurs before the current subscription start date
+SUB0001479,CUST001350,PLAN02,2026-05-20,,Cancelled,True,2026-04-02,Not enough content,15.49,True,False,False,48,True,Cancellation date occurs before the current subscription start date
+SUB0001599,CUST001454,PLAN01,2026-05-24,,Cancelled,False,2026-04-17,Too expensive,6.99,True,False,False,37,True,Cancellation date occurs before the current subscription start date
+SUB0001834,CUST001662,PLAN01,2026-06-18,,Cancelled,True,2026-01-14,Technical issues,6.99,True,False,False,155,True,Cancellation date occurs before the current subscription start date
+SUB0002314,CUST002101,PLAN03,2026-06-15,,Cancelled,True,2025-12-23,Not enough content,22.99,True,False,False,174,True,Cancellation date occurs before the current subscription start date
+SUB0002532,CUST002297,PLAN02,2026-03-30,,Cancelled,True,2026-02-06,Not enough content,15.49,True,False,False,52,True,Cancellation date occurs before the current subscription start date
+SUB0002548,CUST002311,PLAN02,2026-05-26,,Cancelled,True,2026-03-26,Found alternative platform,15.49,True,False,False,61,True,Cancellation date occurs before the current subscription start date
+SUB0002840,CUST002577,PLAN01,2026-06-11,,Cancelled,True,2026-05-13,Too expensive,6.99,True,False,False,29,True,Cancellation date occurs before the current subscription start date
+SUB0003989,CUST003615,PLAN01,2025-11-24,,Cancelled,False,2025-10-10,Poor customer service experience,6.99,True,False,False,45,True,Cancellation date occurs before the current subscription start date
+SUB0004061,CUST003681,PLAN01,2026-03-18,,Cancelled,True,2025-11-01,Household budget cuts,6.99,True,False,False,137,True,Cancellation date occurs before the current subscription start date
+SUB0004074,CUST003693,PLAN02,2026-03-12,,Cancelled,True,2026-01-30,Not enough content,15.49,True,False,False,41,True,Cancellation date occurs before the current subscription start date
+SUB0004203,CUST003811,PLAN03,2026-05-17,,Cancelled,False,2026-05-08,Found alternative platform,22.99,True,False,False,9,True,Cancellation date occurs before the current subscription start date
+SUB0004462,CUST004041,PLAN03,2026-02-25,,Cancelled,True,2025-10-16,Found alternative platform,22.99,True,False,False,132,True,Cancellation date occurs before the current subscription start date
+SUB0004529,CUST004103,PLAN02,2026-06-24,,Cancelled,True,2026-06-03,Found alternative platform,15.49,True,False,False,21,True,Cancellation date occurs before the current subscription start date
+SUB0004581,CUST004148,PLAN02,2026-04-22,,Cancelled,True,2025-12-20,Poor customer service experience,15.49,True,False,False,123,True,Cancellation date occurs before the current subscription start date
+SUB0004642,CUST004206,PLAN02,2026-06-20,,Cancelled,False,2026-03-27,Too expensive,15.49,True,False,False,85,True,Cancellation date occurs before the current subscription start date
+SUB0004652,CUST004214,PLAN01,2026-05-12,,Cancelled,False,2026-04-05,No longer needed,6.99,True,False,False,37,True,Cancellation date occurs before the current subscription start date
+SUB0004667,CUST004228,PLAN01,2026-06-25,,Cancelled,False,2026-04-06,No longer needed,6.99,True,False,False,80,True,Cancellation date occurs before the current subscription start date
+SUB0004866,CUST004403,PLAN02,2026-05-02,,Cancelled,True,2026-02-14,Found alternative platform,15.49,True,False,False,77,True,Cancellation date occurs before the current subscription start date
+SUB0004938,CUST004468,PLAN03,2026-03-05,,Cancelled,False,2025-10-12,Household budget cuts,22.99,True,False,False,144,True,Cancellation date occurs before the current subscription start date
+SUB0005191,CUST004698,PLAN02,2026-03-03,,Cancelled,True,2025-11-13,Household budget cuts,15.49,True,False,False,110,True,Cancellation date occurs before the current subscription start date
+SUB0005222,CUST004723,PLAN02,2026-01-09,,Cancelled,True,2025-10-10,Too expensive,15.49,True,False,False,91,True,Cancellation date occurs before the current subscription start date
+SUB0005586,CUST005049,PLAN03,2026-06-12,,Cancelled,True,2026-02-07,Payment issues,22.99,True,False,False,125,True,Cancellation date occurs before the current subscription start date
+SUB0005611,CUST005068,PLAN02,2026-06-25,,Cancelled,True,2026-06-03,Found alternative platform,15.49,True,False,False,22,True,Cancellation date occurs before the current subscription start date
+SUB0005833,CUST005270,PLAN02,2026-03-04,,Cancelled,True,2025-11-02,No longer needed,15.49,True,False,False,122,True,Cancellation date occurs before the current subscription start date
+SUB0006305,CUST005688,PLAN02,2026-02-18,,Cancelled,True,2026-01-03,Password sharing crackdown,15.49,True,False,False,46,True,Cancellation date occurs before the current subscription start date
+SUB0006608,CUST005965,PLAN02,2026-05-01,,Cancelled,True,2026-01-18,Poor customer service experience,15.49,True,False,False,103,True,Cancellation date occurs before the current subscription start date
+SUB0007885,CUST007112,PLAN01,2026-02-05,,Cancelled,False,2025-11-06,Technical issues,6.99,True,False,False,91,True,Cancellation date occurs before the current subscription start date
+SUB0008108,CUST007316,PLAN03,2026-04-23,,Cancelled,True,2026-01-01,Technical issues,22.99,True,False,False,112,True,Cancellation date occurs before the current subscription start date
+SUB0008183,CUST007380,PLAN01,2026-03-12,,Cancelled,True,2025-12-07,Content quality decline,6.99,True,False,False,95,True,Cancellation date occurs before the current subscription start date
+SUB0008293,CUST007476,PLAN02,2026-04-30,,Cancelled,False,2025-10-28,Too expensive,15.49,True,False,False,184,True,Cancellation date occurs before the current subscription start date
+SUB0008533,CUST007695,PLAN01,2026-03-21,,Cancelled,True,2026-02-15,Too expensive,6.99,True,False,False,34,True,Cancellation date occurs before the current subscription start date
+SUB0008673,CUST007824,PLAN03,2026-03-14,,Cancelled,True,2026-02-20,Too expensive,22.99,True,False,False,22,True,Cancellation date occurs before the current subscription start date
