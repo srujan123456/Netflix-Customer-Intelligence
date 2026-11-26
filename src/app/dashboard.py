@@ -4,9 +4,17 @@ from pathlib import Path
 import streamlit as st
 
 
-CURRENT_DIR = Path(__file__).resolve().parent
-PAGES_DIR = CURRENT_DIR / "pages"
+# --------------------------------------------------
+# PROJECT PATHS
+# --------------------------------------------------
 
+APP_DIR = Path(__file__).resolve().parent
+PAGES_DIR = APP_DIR / "pages"
+
+
+# --------------------------------------------------
+# STREAMLIT CONFIGURATION
+# --------------------------------------------------
 
 st.set_page_config(
     page_title="Netflix Customer Intelligence",
@@ -16,84 +24,115 @@ st.set_page_config(
 )
 
 
-PAGE_CONFIG = [
+# --------------------------------------------------
+# PAGE CONFIGURATION
+# --------------------------------------------------
+
+PAGES = [
     {
         "title": "Executive Dashboard",
-        "file": "01_Executive_Dashboard.py",
+        "filename": "01_Executive_Dashboard.py",
         "icon": "📊",
         "section": "Overview"
     },
     {
         "title": "Customer Analytics",
-        "file": "02_Customer_Analytics.py",
+        "filename": "02_Customer_Analytics.py",
         "icon": "👥",
         "section": "Analytics"
     },
     {
         "title": "Churn Prediction",
-        "file": "03_Churn_Prediction.py",
+        "filename": "03_Churn_Prediction.py",
         "icon": "📉",
         "section": "Analytics"
     },
     {
         "title": "Customer Segmentation",
-        "file": "04_Customer_Segmentation.py",
+        "filename": "04_Customer_Segmentation.py",
         "icon": "🎯",
         "section": "Analytics"
     },
     {
         "title": "AI Analytics Copilot",
-        "file": "05_AI_Analytics_Copilot.py",
+        "filename": "05_AI_Analytics_Copilot.py",
         "icon": "🤖",
         "section": "AI Intelligence"
     },
     {
         "title": "Support Intelligence",
-        "file": "06_Support_Intelligence.py",
+        "filename": "06_Support_Intelligence.py",
         "icon": "💬",
         "section": "AI Intelligence"
     },
     {
         "title": "Automated Reports",
-        "file": "07_Automated_Reports.py",
+        "filename": "07_Automated_Reports.py",
         "icon": "📄",
         "section": "AI Intelligence"
     }
 ]
 
 
-missing_pages = [
-    page["file"]
-    for page in PAGE_CONFIG
-    if not (PAGES_DIR / page["file"]).is_file()
-]
+# --------------------------------------------------
+# CHECK PAGE FILES
+# --------------------------------------------------
+
+missing_pages = []
+
+for page in PAGES:
+    page_path = PAGES_DIR / page["filename"]
+
+    if not page_path.is_file():
+        missing_pages.append(page["filename"])
+
 
 if missing_pages:
-    st.error("The following page files could not be found:")
+    st.error("Some application pages are missing.")
+
     for filename in missing_pages:
         st.write(f"- {filename}")
+
     st.info(
-        "Check that all seven page files are saved inside "
-        "the src/app/pages folder."
+        "Ensure that all seven Python page files "
+        "are available inside src/app/pages."
     )
+
     st.stop()
 
 
-navigation_groups = {}
+# --------------------------------------------------
+# CREATE NAVIGATION
+# --------------------------------------------------
 
-for page in PAGE_CONFIG:
-    navigation_groups.setdefault(page["section"], []).append(
+navigation = {}
+
+for page in PAGES:
+
+    section = page["section"]
+
+    if section not in navigation:
+        navigation[section] = []
+
+    navigation[section].append(
         st.Page(
-            str(PAGES_DIR / page["file"]),
+            str(PAGES_DIR / page["filename"]),
             title=page["title"],
             icon=page["icon"],
-            default=page["file"] == "01_Executive_Dashboard.py"
+            default=(
+                page["filename"]
+                == "01_Executive_Dashboard.py"
+            )
         )
     )
 
 
+# --------------------------------------------------
+# RUN SELECTED PAGE
+# --------------------------------------------------
+
 selected_page = st.navigation(
-    navigation_groups,
+    navigation,
     position="sidebar"
 )
 
